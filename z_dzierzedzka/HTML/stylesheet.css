@@ -1,0 +1,19 @@
+body { margin-left: 10%; margin-right: 10%; 
+font-family:roman; font-size:16px; 
+line-height: 2; 
+text-align: center;
+color: #4e3470; 
+background-color: #fce6f3;}
+h1 { color: #7b2994}
+h2 { color: #a853c2}
+h3 { text-align: left;
+color: #340d40}
+p { text-align: left;
+text-indent: 5%; }
+/*new links*/
+a { color: #e34faa}
+/*visited links*/
+a:visited { color:#732c57}
+table, th, td {
+  border: 1px solid black; }
+   ul {    text-align: left; }
