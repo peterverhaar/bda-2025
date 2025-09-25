@@ -1,0 +1,35 @@
+body {
+  background-color: #fef8fc;
+  font-family: 'ヒラギノ角ゴ ProN' , 'Hiragino Kaku Gothic ProN' , '游ゴシック' , '游ゴシック体' , YuGothic , 'Yu Gothic' , 'メイリオ' , Meiryo , 'ＭＳ ゴシック' , 'MS Gothic' , HiraKakuProN-W3 , 'TakaoExゴシック' , TakaoExGothic , 'MotoyaLCedar' , 'Droid Sans Japanese' , sans-serif;
+  font-size: 110%;
+  margin-left: 12.5%; 
+  margin-right: 12.5%; 
+}
+
+h1, h2 {
+  color: #952D5D;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+}
+
+td:nth-child(odd), th:nth-child(odd) {
+  background-color: #fff3fb;
+}
+
+a { color: #C63F7E; text-decoration: none; font-weight: bold !important;}
+a:visited { color: #5f5e5e; text-decoration: none; font-weight:200 !important;}
+a:hover { color: #C63F7E; text-decoration: underline; font-weight: bold !important;}
+a:active { color: #C63F7E ; text-decoration: underline ; font-weight: bold !important;} 
+
+img {
+  width: 40%;
+  height: auto;
+  float: right;
+  border-radius: 8px;
+  border: 5px solid #952D5D;
+  margin-left: 20px;
+}
