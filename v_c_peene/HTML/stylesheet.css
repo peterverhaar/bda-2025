@@ -1,0 +1,10 @@
+body {margin-left:10%; margin-right: 10%; background-color: #90b588; font-family: "Times New Roman";}
+
+/* unvisited link */ 
+a:link {color: #498769}
+/* visited link */
+a:visited {color: #f01884}
+
+/* type/element selector */
+h1 {color: green;}
+
