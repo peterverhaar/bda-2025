@@ -1,0 +1,27 @@
+body {
+margin-left: 10%;
+margin-right: 10%;
+}
+</style>
+        <style>
+    /* new links */
+    a:link {
+      color: #003366;
+      text-decoration: none; /* removes underline */
+    }
+    /* visited links */
+    a:visited {
+      color: #660066;
+      text-decoration: none; /* keeps underline removed */
+    }
+    /* hover effect */
+    a:hover {
+      text-decoration: underline; /* underline only on hover */
+    }
+<body style="font-family: Arial, sans-serif;">
+  <h1 style="color: #BFD641;"><b>Get to know me!</b></h1>
+  <span style="color: #800080;"><i>cancer</i></span>
+  <p style="color: #BFD641;">> <b>My educational background</b> </p>
+  <p style="color: #BFD641;">> <b>Some entertainment reccomendations</b> </p>
+  
+<table style="width: 100%;">
