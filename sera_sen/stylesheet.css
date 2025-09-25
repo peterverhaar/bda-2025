@@ -1,0 +1,81 @@
+/* General page styling */
+body {
+  font-family: Helvetica, sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #333;
+  text-align: center;          /* center all text and inline elements like images */
+  line-height: 1.6;
+}
+
+/* Headings */
+h1 {
+  color: #000066;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #000066;
+  margin-top: 30px;
+}
+
+/* Links */
+a:link {
+  color: #003366;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #660066;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Images */
+img {
+  display: inline-block;       /* centers image in text-align:center context */
+  margin: 20px 0;
+  border-radius: 10px;
+  max-width: 300px;
+  height: auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Lists */
+ul {
+  list-style-type: disc;
+  padding-left: 0;
+  display: inline-block;       /* centers the whole list */
+  text-align: left;            /* keep list text left-aligned */
+  margin: 20px auto;
+  background-color: #f9f9f9;
+  padding: 15px 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  max-width: 300px;
+}
+
+ul li {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 30px auto;
+  text-align: left;           /* keep table text left-aligned */
+}
+
+td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  vertical-align: top;
+}
+
+td:first-child {
+  font-weight: bold;
+}
