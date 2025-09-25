@@ -1,0 +1,11 @@
+body { font-family: Georgia, serif; }
+body {background-color: #8EAB12; }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse; }
+h1 {color: #000066}
+a { color: #003366; text-decoration: none; }
+a:visited { color:#660066 ; text-decoration: none; }
+a:hover { color: black; text-decoration: underline; }
+margin-left {10%}
+margin-right {10%}
