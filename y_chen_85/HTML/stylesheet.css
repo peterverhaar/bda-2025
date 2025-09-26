@@ -1,0 +1,19 @@
+body {background-color: #93C2B0;}
+h1 { font-size: 37px; text-align: center;font-family:Verdana,Tahoma,Geneva;font-weight:bold;} 
+p{font-size:20px; font-family:Georgia,serif;text-align: justify;margin-left: 20%; margin-right: 20%;line-height:1.5;}
+h2 { font-size: 37px; text-align: center;font-family:Verdana,Tahoma,Geneva;font-weight:bold;} 
+ul{font-size:20px;font-family:Georgia,serif;text-align: center;margin-left:20%; margin-right: 20%;line-height:1.5;}
+h3 { font-size: 37px; text-align: center;font-family:Verdana,Tahoma,Geneva;font-weight:bold;}
+h4 { font-size: 37px; text-align: center;font-family:Verdana,Tahoma,Geneva;font-weight:bold;}
+h5 { font-size: 37px; text-align: center;font-family:Verdana,Tahoma,Geneva;font-weight:bold;}
+h6 { font-size: 25px; text-align: center;font-family:Verdana,Tahoma,Geneva;line-height:3;}
+table{font-size:20px;font-family:Georgia,serif;text-align:justify;margin-left:10px;margin-right: 10px;line-height:1.5;border:1px solid grey}
+tr{border: 1px solid grey;} td{border: 1px solid grey;}
+/* new links */ 
+a { color: #0c2577; text-decoration: none; } 
+/* visited links */ 
+a:visited { color: #660000; text-decoration: none; } 
+/* mouse-over */
+a:hover { color: black; text-decoration: underline; } 
+/* active links*/
+a:active { color: black ; text-decoration: underline ; }
