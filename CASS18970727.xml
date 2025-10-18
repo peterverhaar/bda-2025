@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+    xml:id="CASS18970727"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from
+                    Cassel &amp; Company Lim. to
+                    A.W. Sijthoff,
+                    1898-07-27: A machine-readable transcription</title>
+                <author>
+                    Cassel &amp; Company Lim.
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Elizabeth Dekkers
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Elizabeth Dekkers
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Elizabeth Dekkers
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                16 kBytes
+            </extent>
+            <publicationStmt>
+                <publisher>Leiden University</publisher>
+                <pubPlace>Leiden, Netherlands</pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    CASS18970727
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p>&#xA9; Copyright  2019, Leiden University</p>
+                </availability>
+                <date>2019</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Letter from
+                            Cassel &amp; Company Lim. to
+                            A.W. Sijthoff,
+                            1898-07-27
+                        </title>
+                        <author>
+                            Cassel &amp; Company Lim.
+                        </author>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Leiden University</publisher>
+                        <idno type="callNo">
+                            
+                            SYT A 1898: Cassell &amp; Co. 1
+                        </idno>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the
+                    2019-2020
+                    Digital Media Technology course, Book and Digital Media Studies, Leiden University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="dut">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    In this e-mail exchange the sender requests the recipient to send five more copies of the Belvedere Gallery.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            London
+                        </placeName>
+                        <date when="1898-07-27"></date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName>A.W. Sijthoff</persName>
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear Sir,
+                    </salute>
+                </opener>
+                <p>
+                    Will you be <lb/> 
+                    good enough to send us five <lb/>
+                    more copies of the <title>Belvedere <lb/> 
+                    Gallery</title> which will complete <lb/> 
+                    the two copies which we <lb/> 
+                    undertook to sell. <lb/>
+                    When writing please <lb/>
+                    tell us whether you have <lb/>
+                    any etchings <note><p> An impression, or image on a metal plate.</p></note> from the book <lb/>
+                    or any others of the kind <lb/> 
+                    of which you could supply <lb/> 
+                    copies or steel plates. <lb/>
+                </p>
+                <closer>
+                    <salute>
+                        Yours faithfully,
+                    </salute>
+                    <signed>Cassel &amp; Company Lim.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
