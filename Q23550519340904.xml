@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q23550519340904">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Vita Sackville-West to Leonard Woolf,
+                 04 September 1934: A machine-readable transcription</title>
+                <author>
+                    <persName key="Q235505">Vita Sackville-West</persName>
+                </author>
+                <principal>Dr. Peter Verhaar</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Petra Stiglmayer
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Petra Stiglmayer
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Petra Stiglmayer
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                6 kBytes
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q23550519340904
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2020</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName type="sender" key="Q235505">Vita Sackville-West</persName> to <persName type="recipient" key="Q703935">Leonard Woolf</persName>,
+                     <date when="1934-09-04">04 September 1934</date>.
+                    </title>
+                    <author>
+                        <persName key="Q235505">Vita Sackville-West</persName>
+                    </author>
+                    <idno type="callNo">
+                        MS 2750 416 050
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2020-2021
+                    Digital Media Technology course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>feminine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    <persName>Vita Sackville-West</persName> tells <persName>Leonard Woolf</persName> that
+                    <title>The Edwardians</title> will be produced at the <orgName>Birmingham Repertory Theatre</orgName> and suggests
+                    that he send copies of the book to be sold there. She also notes that she is sending <persName>Virginia</persName>
+                    some mushrooms.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            {Kent}
+                        </placeName>
+                        <date when="1934-09-04">
+                            4th September 1934
+                        </date>
+                    </dateline>
+                    <salute>
+                        My dear <persName key="Q703935">Leonard</persName>,
+                    </salute>
+                </opener>
+                <p>
+                  I thought I would let you know that<lb/>
+                  <title>The Edwardians</title> is going to be produced at<lb/>
+                  the <orgName>Birmingham Repertory Theatre</orgName> on Saturday<lb/>
+                  <date when="1934-09-15">September 15th</date>, and would suggest to you<lb/>
+                  that you might send some copies of the book<lb/>
+                  up for sale in the theatre.
+                </p>
+                <p>
+                  I am sending <persName key="Q40909">Virginia</persName> some mushrooms<lb/>
+                  to-day, because I know how much she likes<lb/>
+                  them. They were picked at five o'clock this<lb/>
+                  morning, but not, I regret to say, by me.
+                </p>
+                <closer>
+                    <salute>
+                        Yours ever,
+                    </salute>
+                    <signed>
+                      <persName key="Q235505">
+                        <choice>
+                          <orig>Vita</orig>
+                          <reg>Vita Sackville-West</reg>
+                        </choice>
+                      </persName>
+                    </signed>
+                    <address>
+                      <addrLine>{SISSINGHURST CASTLE,</addrLine>
+                      <addrLine><placeName>KENT</placeName>.}</addrLine>
+                    </address>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
