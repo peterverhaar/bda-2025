@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q7738281932-11-15">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from C.L.R James to Leonard Woolf, 1932-11-15: A
+                    machine-readable transcription</title>
+                <author>
+                    C.L.R James
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Rosie Chilton
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Rosie Chilton
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Rosie Chilton
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q7738281932-11-15
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName key= "Q773828">C.L.R.James</persName> to <persName key= "Q703935">Mr Woolf</persName>, <date when="1932-11-15"> </date>
+                    </title>
+                    <author>
+                        C.L.James
+                    </author>
+                    <idno type="callNo">
+                        "SxMs-13/1/Q/3/C"
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    C.L.R James writes to Leonard Woolf to inform him he will write a 10,000 word pamphlet and 
+                    implores him to publish it. C.L.R James considers it an oppertune time to print and 
+                    discusses publicity with the COlonial Office, he states he will write an article and send it
+                    to Mr Kingsley Martin alongside a draft to Leonard Woolf.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1932-11-15">
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName> Leonard Woolf </persName>
+                        </addrLine>
+                        <addrLine>
+                            3 Mircrth St <lb/>
+                            Nelson <lb/>
+                            Luncs <lb/>
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear <persName key= "Q703935">Mr Woolf</persName>,
+                    </salute>
+                </opener>
+                <p>
+                    Thanks extremely <lb/>
+                    for your kind letter. I was <lb/>
+                    glad that you like the book. <lb/>
+                    I shall prepare a <lb/>
+                    pamphlet of 10,000 words <lb/>
+                    and sincerely hope you <lb/>
+                    will see your way to <lb/>
+                    publish it. The fact that <lb/>
+                    the commission is actually <lb/>
+                    taking evidence now and <lb/>
+                    will do so until March <lb/>
+                    next year marks the <lb/>
+                    present time opportune. I <pb/>
+                    do not know if I am <lb/>
+                    wrong in thinking that <lb/>
+                    a little publicity in <lb/>
+                    the right quantity on this <lb/>
+                    side would have some <lb/>
+                    weight with the com- <lb/>
+                    missioners and the <lb/>
+                    Colonial Office. <lb/>
+                    I shall prepare a short <lb/>
+                    article and send it <lb/>
+                    to <persName key= "Q6413326">Mr. Kingsley Martin</persName> ; and <lb/>
+                    as soon as it is typed <lb/>
+                    I shall send you a <lb/>
+                    copy of the draft
+                    compilation.
+                </p>
+                <closer>
+                    <salute>
+                        yours sincerely <lb/>
+                    </salute>
+                    <persName key= "Q773828">C.L.R.James</persName>
+                    <signed/>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
