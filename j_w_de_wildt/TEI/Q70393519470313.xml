@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q70393519470313">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Leonard Woolf to Dr. Ernest Jones, 1947-03-13: A machine-readable transcription</title>
+                <author>
+                    Leonard Woolf
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Jan-Willem de Wildt
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Jan-Willem de Wildt
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Jan-Willem de Wildt
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                5.35kB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q70393519470313
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from P. Low to Dr. Ernest Jones, 1947-03-13</title>
+                    <author>P. Low</author>
+                    <idno type="callNo">MS 2750/205/19</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025
+                    the Book in the Digital Age: Agents and Medium course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="nld">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Letter from Leonard Woolf to Dr. Ernest Jones regarding a request from 'Vision' to reprint an extract from 'Essays in Applied Psychology', rights status, and proposed terms for reprinting the Hamlet study.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>L?/AB</placeName>
+                        <date when="1947-03-13">13 March 1947</date>
+                    </dateline>
+                    <address>
+                        <addrLine><persName>Dr. Ernest Jones</persName></addrLine>
+                        <addrLine>The Plat, Elsted,</addrLine>
+                        <addrLine>Nr. Midhurst,</addrLine>
+                        <addrLine>Sussex.</addrLine>
+                    </address>
+                    <salute>Dear Dr. Jones,</salute>
+                </opener>
+                <p>
+                    I have had a letter from ‘Vision’ asking permission to<lb/> reprint an extract from your ‘Essays in Applied Psychology’.<lb/> This book is, of course, in The Psycho-analyical Library and<lb/> it is among those the rights of which we bought for a sum down<lb/> in 1924. It is out of print at the moment but I think it very<lb/> important that eventually we should be able to reprint it for<lb/> the Library.<lb/>
+                </p>
+                <p>
+                    I presume that all they wish to publish is an extract,<lb/> namely the study of Hamlet. I should be prepared to allow them<lb/> to do this provided that the number of copies in the edition<lb/> was limited and that they paid a nominal fee of, say, Fifteen<lb/> Guineas. I am therefore writing to them in this sense.
+                </p>
+                <closer>
+                    <salute>Yours sincerely,</salute>
+                    <signed>P. Low</signed>
+                    <seg>Dictated but not signed by Mr. Woolf.</seg>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
