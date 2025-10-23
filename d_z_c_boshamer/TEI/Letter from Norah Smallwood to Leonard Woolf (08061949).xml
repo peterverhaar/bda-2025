@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q705023019490608">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from <persName key="Q7050230">Norah Smallwood</persName> to <persName key="Q703935">Leonard Woolf</persName>, <date when="1949-06-08">
+                           8th June, 1949</date>: A machine-readable transcription</title>
+                <author>
+                    <persName key="Q7050230">Norah Smallwood</persName>
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Denis&#xE9; Boshamer
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Denis&#xE9; Boshamer
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Denis&#xE9; Boshamer
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q705023019490608
+                </idno>
+                <availability>
+                    <p>Publicly accessible</p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>copy of Letter from <persName key="Q7050230">Norah Smallwood</persName> to <persName key="Q703935">Leonard Woolf</persName> <date when="1949-06-08">(08/06/1949)</date>
+                    </title>
+                    <author>
+                     <persName key="Q7050230">Norah Smallwood</persName>
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/410/58
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    The Book in the Digital Age: Agents and Medium course, 
+                    Book and Digital Media Studies, Leiden University
+                </p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Request by <persName key="Q7050230">Norah Smallwood</persName> to <persName key="Q703935">Leonard Woolf</persName> to write someone (female) about the royalties for <title key="Q3881234">ALL PASSION SPENT</title>, as well as intention to reprint.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1949-06-08">
+                           8th June, 1949
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                             <persName key="Q703935">Leonard Woolf <choice><abbr>Esq.</abbr><expan>esquire</expan></choice>,</persName>
+                        </addrLine>
+                            <addrLine><placeName key="Q864197">The Monks House</placeName>,</addrLine>
+                            <addrLine>Rodmell,</addrLine>
+                            <addrLine>Nr. Lewes, Sussex.</addrLine>
+                    </address>
+                    <seg>
+                        NS/EB
+                    </seg>
+                    <salute>
+                        Dear <persName key="Q703935">Leonard</persName>,
+                    </salute>
+                </opener>
+                <p>
+                    <lb/>I expect you will want to
+                    <lb/>answer the enclosed. As you will
+                    <lb/>remember, <title key="Q3881234">ALL PASSION SPENT</title>
+                    <note><p><title key="Q3881234">All Passion Spent</title> is a fiction novel by <persName key="Q235505">Vita Sackville-West</persName>, published by the <orgName key="Q1623362">Hogarth Press</orgName> in <date when="1931">1931</date></p></note> 
+                    is one of
+                    <lb/>the titles for the <orgName>New Phoenix Library</orgName>
+                    <note><p>The New Phoenix Library refers to a book publication series consisting of both reprints and original titles.</p></note>
+                    <lb/>and the position, when last discussed, was 
+                    <lb/>that you should write to her about 
+                    <lb/>royalties as soon as we knew exactly 
+                    <lb/>what the costs were to be. We haven&apos;t
+                    <lb/>got any facts yet so I cannot tell you
+                    <lb/>what we are going to propose, but if you
+                    <lb/>are writing to her anyway, it might be
+                    <lb/>worthwhile mentioning our intention to
+                    <lb/>reprint.    
+                </p>
+                <closer>
+                    <salute>
+                        Yours ever,
+                    </salute>
+                    <seg>
+                        <!-- post scriptum -->
+                    </seg>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
