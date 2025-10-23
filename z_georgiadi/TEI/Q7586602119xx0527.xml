@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="xxxxx">
+    <!-- replace xxxxxxxxxx with file id -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from <persName key=΄:Q>Annabel Trench</persName> to <persName>Mr Woolf</persName>, <date>19xx-05-27</date>: A
+                    machine-readable transcription</title>
+                <author>
+                    <Annabel Trench>
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        <Zoe Georgiadi>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        <Zoe Georgiadi>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        <Zoe Georgiadi>
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    <!-- file ID -->
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date><2025></date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <Annabel Trench> to <Mr Woolf>, <19xx-05-27>
+                    </title>
+                    <author>
+                        <Annabel Trench>
+                    </author>
+                    <idno type="callNo">
+                        <SxMs-13/1/Q/3/D>
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the <2025-2026>
+                    <The book in the digital age> course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    <!-- summary of contents -->
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            <!-- place name as in letter -->
+                        </placeName>
+                        <date when="YYYY-MM-DD">
+                            <!-- date_as_found_in_letter -->
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <!-- recipient's name, using <persName> or <orgName> element -->
+                        </addrLine>
+                        <addrLine>
+                            <!-- recipient's address (add <addrLine>s as required) -->
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear Mr. Wolf. 
+                    </salute>
+                </opener>
+                <p>
+                    I was sad not to have been 
+                    over to say good – bye to you personally
+                    before leaving Chatto’s, so this is 
+                    just to say how very much I enjoyed
+                    working for you during my time 
+                    at the office. I am sorry that I wasn’t 
+                    able to stay and see the last volume
+                    of your autobiography through to pub-
+                    lication. 
+                    I am about to start a 
+                    part – time job for one of the Observer 
+                    editors, Colin Legun, who you probably
+                    know is the Middle East and Africa 
+                    counterpart for the papers: Hewarth 
+                    Sune– are to work at his home (unintelligible)
+                    dealing with his non – 
+                    newspaper activities. I know that much of 
+                    what I have learnet helping with Chatto 
+                    and Hewarth works will not be very useful, and
+                    as I know very little about the subject
+                    that I shall be dealing with I should be
+                    constantly learning which I think is a very 
+                    good thing. 
+                    Please do not (unintelligible) bother to answer
+                    this. I am sure you have lot of 
+                    other letters to reply to. 
+                    I do hope you are getting very 
+                    much better and enjoying what sun 
+                    you may be having in Sussex. It’s 
+                    rainy and sunny less alternatively.   
+          </p>
+                <closer>
+                    <salute>
+                        With all best wishes, 
+                    Yours sincerely!
+                    </salute>
+                    <signed/> 
+                    Annabel
+          
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
