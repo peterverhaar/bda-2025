@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAPP0011_19500519">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from <persName key="MAPP0011">Aline Burch</persName> to Jessie Stewart: A
+                    machine-readable transcription</title>
+                <author>
+                    Aline Burch
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Xinrui Li
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Xinrui Li
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Xinrui Li
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    MAPP0011_19500519
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName key="MAPP0011">Aline Burch</persName> to Jessie Stewart, 19 May 1950
+                    </title>
+                    <author>
+                        Aline Burch
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/164/26
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    This is a letter from <persName key="MAPP0011">Aline Burch</persName> to Jessie Stewart about a letter 
+                    that Jessie Stewart sent to the <orgName key="Q1623362">Hogarth Press</orgName>, which 
+                    now will be redirected to <persName key="Q703935">Leonard Woolf</persName>. 
+                    Burch also mentions the availability of a book supply.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1950-05-19">
+                            19th May, 1950
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName>Miss J. G. Stewart</persName>
+                        </addrLine>
+                             <addrLine>The Nolting House,</addrLine>
+                            <addrLine>Newnham Road,</addrLine>
+                            <addrLine>Cambridge,</addrLine>
+                    </address>
+                    <seg><persName key="MAPP0011">AB</persName></seg>
+                    <salute>
+                        Dear Madam,
+                    </salute>
+                </opener>
+                <p>
+                <lb/>As <persName key="Q1563198">Mr. Lehmann</persName> has now left The
+                <lb/><orgName key="Q1623362">Hogarth Press</orgName> and is publishing on his
+                <lb/>own account, I am acknowledging your
+                <lb/>letter, which I will pass to <persName key="Q703935">Mr.Woolf</persName>
+                <lb/>when he is in the office next week.
+                <lb/>Meanwhile, however, I should like to 
+                <lb/>say that <title level="m">Reminiscences of a Student's 
+                <lb/>Life</title> is obtainable and if you will refer
+                <lb/>any enquirer to us, we shall be pleased
+                <lb/>to supply copies while the stock lasts.
+                </p>
+                <closer>
+                    <salute>
+                        Yours faithfully,
+                    </salute>
+                    <signed>
+                        for The Hogarth Press <choice><abbr>Ltd</abbr><expan>Limited</expan></choice>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
