@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="xxxxx">
+    <!-- replace xxxxxxxxxx with file id -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from B.A. Strange to Monica Stirling, 21 April 1976: A
+                    machine-readable transcription</title>
+                <author>
+                    B.A. Strange
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Xinrui Li
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Xinrui Li
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Xinrui Li
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    <!-- file ID -->
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from B.A. Strange to Monica Stirling, 21 April 1976
+                    </title>
+                    <author>
+                        B.A. Strange
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/C/7/1/2/54
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    B. A. Strange writes to Monica Stirling about an issue 
+                    regarding the royalties involving the book <title level="m">La Mort de la Phalene</title>.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1976-04-21">
+                            21st April 1976
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName>Mlle. Monica Stirling</persName>
+                        </addrLine>
+                            <addrLine>Hotel Mirabeau</addrLine>
+                            <addrLine>31 Avenue de la Gard</addrLine>
+                            <addrLine>1001 Lausanne</addrLine>
+                            <addrLine>Switzerland</addrLine>
+                    </address>
+                    <salute>
+                        Dear Mademoiselle Stirling
+                    </salute>
+                </opener>
+                <p>I refer to correspondence between our <persName>Miss Spurdle</persName> and yourself 
+            <lb/>regarding the works of <persName key="Q40909">Virginia Woolf</persName> under the title of <title level="m">La Mort
+            <lb/>de la Phalene</title>. As a result of her correspondence both with you
+            <lb/>and with the French publisher, <orgName key="Q2635075">Editions du Seuil</orgName>, it now seems
+            <lb/>clear that an error has occurred over the payment of Royalties.</p>
+
+            <p>In <date when="1968">1968</date>, <persName>Madame Arnaud</persName> instructed the publisher to pay 90&#x25; of
+            <lb/>Royalties arising from the book <title level="m">L&apos;Art du Roman</title> direct to <persName key="Q703935">Mr.
+            <lb/>Leonard Woolf</persName> and 10% to <del rend="strikethrough">yourself</del> <add type="handwriting" place="above">her</add>, and this appears to have been
+            <lb/>carried out. But no such instruction was given regarding <title level="m">La Mort
+            <lb/>de la Phalene</title>. Consequently, <orgName key="Q2635075">Editions du Seuil</orgName> have continued to
+            <lb/>pay all Royalties arising from this book, first to <persName>Madame Arnaud's</persName>
+            <lb/>agency in <date when="1969">1969</date>, then to <persName>M. Puisoye</persName> as her executor in <date when="1970">1970</date>, <date when="1971">1971</date> and
+            <lb/><date when="1972">1972</date>, and in <date when="1973">1973</date> and <date when="1974">1974</date>, to yourself, on the instructions of
+            <lb/><persName>M. Puisoye</persName>. The total amount paid was Frs. 1659.97 but in fact
+            <lb/>the whole of this amount should have been remitted to the Estate of
+            <lb/><persName key="Q40909">Virginia Woolf</persName> except for 10&#x25; to <persName>Madame Arnaud</persName> during the time
+            <lb/>her agency was still in existence. In fact, however, it appears
+            <lb/>that none of this money has ever reached us for the <placeName>Woolf Estate</placeName>.
+            <lb/>We have no means of knowing what happened to the payments which
+            <lb/><orgName key="Q2635075">Editions du Seuil</orgName> made to the agency in <date when="1969">1969</date> (Frs. 638.23) nor to
+            <lb/>the amount of Frs. 62.05 paid to <persName>M. Puisoye</persName>. But we are informed
+            <lb/>by the publishers that for the years <date when="1973">1973</date> and <date when="1974">1974</date> they remitted to
+            <lb/>you a total sum of Frs. 959.69. We should be very grateful if you </p>
+            <pb/>
+            <p>could send us a payment for this sum but in view of the fact that
+            <lb/>it does not seem to be possible to contact <persName>M. Puisoye</persName> it would
+            <lb/>seem the earlier Royalties due to the Estate cannot now be 
+            <lb/>recover<del rend="overwritten">d</del><add place="superimposed">e</add>d. </p>
+                <closer>
+                    <salute>
+                        Yours sincerely
+                    </salute>
+                    <signed>B.A. Strange
+                        <lb/>Company Secretary
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
