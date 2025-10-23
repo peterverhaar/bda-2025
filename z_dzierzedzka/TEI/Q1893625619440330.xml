@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CUBR_19440330">    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Caroline Brown to Leonard Woolf, 30th March 1944: A
+                    machine-readable transcription</title>
+                <author>
+                    Marth C Janet
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Zuzia Dzierz&#281;dzka
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Zuzia Dzierz&#281;dzka
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Zuzia Dzierz&#281;dzka
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                8,62 KB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q18936256_19440330
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName type="sender"> Caroline Brown</persName> to <persName type="recipient" key="Q703935">Leonard Woolf</persName>, <date when="1944-03-30">30th March 1944</date>
+                    </title>
+                    <author>
+                        <persName>Marth C Janet</persName>
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/2/1/42
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium
+                   course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>feminine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    The letter informs Mr. Woolf that author Ahmed Ali requests permission to publish an Indian edition of Twilight in Delhi.
+                    The novel was recently recommended to British soldiers in India, ranked highly in literary competitions,
+                    and attracted interest from two Indian publishers for a 3,000-copy print run. Ali believes a local,
+                    affordable edition would increase its success.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            London
+                        </placeName>
+                        <date when="1944-03-30">
+                            March <lb/>
+                            30th <lb/>
+                            1944
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            {Curtis Brown Ltd. <lb/>
+                            INTERNATIONAL PUBSLISHING BUREAU <lb/>
+                            LONDON AND NEW YORK}
+                        </addrLine>
+                        <addrLine>
+                            <persName> Leonard <choice><sic>Wolfe</sic><corr>Woolf</corr></choice><choice><abbr>Esq.</abbr><expan>Esquire</expan></choice></persName>
+                        </addrLine>
+                        <addrLine>
+                            <orgName key="Q1623362"> Messrs Hogarth Press</orgName>                            
+                        </addrLine>
+                        <addrLine>Pixmore Avenue</addrLine>
+                        <addrLine>LECHTWORT H</addrLine>
+                        <addrLine>Herts</addrLine>                       
+                        
+                    </address>                    
+                    <salute>
+                        Dear <persName>Mr. <choice><sic>Wolfe</sic><corr>Woolf</corr></choice></persName><note><p>The author misspells Leonard Woolf's surname, refering to the British political theorist, author, publisher, and civil servant who founded the Hogarth Press.</p></note>                        
+                    </salute>
+                </opener>                
+                <p>
+                    <persName>Mrs. Spencer Curtis Brown</persName> <note><p>This refers to the wife of Spencer Curtis Brown, Caroline Brown</p></note> is away from the office at <lb/>
+                    the moment so I am writing to you in her absence. We <lb/>
+                    have received an airmail from <persName key="Q4695257">Mr. Ahmed Ali</persName> in which he <lb/>
+                    says: <lb/>
+                    <quote>Now that <title>TWILIGHT IN DELHI</title><note><p>Twilight in Delhi is Ahmed Ali's first novel, originally published in 1940, which addresses India changing social, political, and cultural climate following colonialism.</p></note> has been included in <lb/>
+                        the list of books recommended to British soldiers <lb/>
+                        it should do very well indeed. This list, I find <lb/>
+                        will be distributed to all the British soldiers <lb/>
+                        in this country (India) or coming to it, and will <lb/>
+                        become operative in another couple of months. A <lb/>
+                        cheap edition therefore will be so much better and <lb/>
+                        an Indian edition, because easily available in this <lb/>
+                        country will be better still. I  also discovered <lb/>
+                        that the novel won good points in a competition held <lb/>
+                        by two papers - <orgName key="Q7741428">the Illustrated Weekly of India</orgName> <note><p> An English-language weekly newsmagazine publication in India (1880-1993).</p></note>and<lb/>
+                        <orgName key="Q580444">the Bombay Chronicle</orgName><note><p> An English-language important Nationalist newspaper of its time, and an important chronicler of the political upheavals of a volatile pre-independence India (1910-1959).</p></note>. It was within the first twenty <lb/>
+                        books on India - which included the classics and <lb/>
+                        philosophies and other books in a Best Books com- <lb/>
+                        petition on India run by <persName key="Q80900">Pearl Buck</persName><note><p> Also known as Pearl Comfort Sydenstricker Buck - American writer and humanitarian, best known for The Good Earth (1931).</p></note> <title><choice><orig>TWILIGHT</orig><reg>TWILIGHT IN DELHI</reg></choice></title> was <lb/>
+                        within the first ten books. Two Indian publishers <lb/>
+                        have been asking me to give them permission to bring <lb/>
+                        out an edition immediately, of 3000 copies.</quote>
+                </p>
+                <p>He is most anxious to have your permission for this <lb/>
+                    Indian edition to be brought out and I wonder, if, in the <lb/>
+                    circumstances, you would be willing to give your consent.</p>
+                <closer>
+                    <salute>
+                        Yours very truly,
+                    </salute>
+                   <signed>
+                       Marth C Janet
+                   </signed>
+                    <seg>
+                        (In the abscence of <persName>Mrs. Curtis Brown</persName>)<lb/>
+                        {While every reasonable care is taken of <choice><abbr>MS.</abbr><expan>manuscript</expan></choice> while in our possession we can accept no responsibility for any less or damage thereto.}
+                    </seg>                    
+                    <address>
+                        <addrLine>
+                            <persName>Spencer Curtis Brown</persName>                            
+                        </addrLine>
+                        <addrLine>
+                            6 HENRIETTA STREET,<lb/>
+                            COVENT GARDEN<lb/>
+                            LONDON, W.C.2
+                        </addrLine>                        
+                    </address>
+                </closer>
+            </div>
+          
+            <note><p>{J.L. <lb/>
+                    I presume we haven't the paper for this? If that is so, I think we must quit permission <lb/>
+                    LW 4/4}</p></note>
+        </body>
+    </text>
+</TEI>
