@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAPP001519320418">
+    <!-- replace xxxxxxxxxx with file id i.e. AHEF_19320418-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Audrey Heffill to Peggy Belsher, 18 April 1932: A
+                    machine-readable transcription</title>
+                <author>
+                    Audrey Heffill
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Annika Rielk
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                       Annika Rielk
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Annika Rielk
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    MAPP001519320418
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName key="MAPP0015">Audrey Heffill</persName> to <persName key="MAPP0014">Peggy Belsher</persName>, <date when="1932-04-18">18 April 1932</date>.
+                    </title>
+                    <author>
+                        Audrey Heffill
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/410/47
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    'The Book in the Digital Age: Agents and Medium' course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="dut">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    This is a letter from Audrey Heffill (secretary of Vita Sackville-West, i.e. Lady Nicolson) 
+                    to Peggy Beslher (secretary at Hogarth Press)
+                    inquiring whether all advance royalties on 'All Passion Spent' (novel by V. Sackville-West) have been paid. 
+                
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                           Stone House, <lb/>
+                            Victoria Road, <lb/>
+                            Sevenoaks. <lb/>
+                        </placeName>
+                        <date when="1932-04-18">
+                            18th April, 1932. <lb/>
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <!-- recipient's name, using <persName> or <orgName> element -->
+                        </addrLine>
+                        <addrLine>
+                            <!-- recipient's address (add <addrLine>s as required) -->
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear Miss Belsher,<lb/>
+                    </salute>
+                </opener>
+                <p>
+                    Would you be so kind as to let me know <lb/>
+                    
+                    the dates on which the amounts making up <lb/>
+                    
+                    advance royalties of &#xA3;800 on <title type="novel">All Passion Spent</title> <note><p>novel by Vita Sackville-West</p></note> <lb/>
+                    
+                    were paid. I have only got two am<del>m</del>ounts<note><p>manual deletion of second 'm' </p></note>, <lb/>
+                    
+                    <choice><abbr>viz.</abbr><expan>videlicet</expan></choice><note><p>i.e. 'namely' or 'that is to say'</p></note> &#xA3;300 in May and &#xA3;300 in November, and as <lb/>
+                    
+                    <persName key="Q235505">Mrs. Nicolson</persName><note>Vita Sackville-West</note> is away from <placeName key="Q2204332">Long Barn</placeName> I have <lb/>
+                    
+                    no means of finding out, except through you, <lb/>
+                    
+                    and I must know for Income Tax returns. I am <Lb/>
+                    
+                    so sorry to worry you.
+                </p>
+                <closer>
+                    <salute>
+                        Yours sincerely, <lb/>
+                    </salute>
+                    <signed> Audrey Heffill</signed> <lb/>
+                    <occupation>
+                        Secretary.
+                    </occupation>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
