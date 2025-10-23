@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="xxxxx">
+    <!-- replace xxxxxxxxxx with file id -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from <persName type="sender" key="Q130729617">Curtis Brown Ltd</persName> to <persName type="recipient" key="Q703935"> Leonard Woolf</persName>, March 16, 1933.: A
+                    machine-readable transcription</title>
+                <author>
+                    <persName type="sender" key="Q130729617">Curtis Brown Ltd</persName>
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Abigail O'Connor
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Abigail O'Connor
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Abigail O'Connor
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    <!-- file ID -->
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName>Curtis Brown Ltd</persName> to <persName>Leonard Woolf</persName>, 16 March, 1933.
+                    </title>
+                    <author>
+                        <persName>Curtis Brown Ltd</persName>
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/556/10
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    The Book in the Digital Age: Agents and Medium course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="dut">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    <!-- summary of contents -->
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1933-03-16">
+                            March 16, 1933.
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName>Leonard Woolf,<choice><abbr>Esq.</abbr><expan>Esquire</expan></choice></persName>,
+                        </addrLine> 
+                        <addrLine>
+                            <orgName>The Hogarth Press</orgName>
+                        </addrLine>
+                        <addrLine>
+                            52, Tavistock Square,
+                        </addrLine>
+                        <addrLine>
+                            W.C.I.
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear Mr. Woolf,
+                    </salute>
+                </opener>
+                <p>
+I have been working daily on the serial situa-<lb/>
+tion with reference to "FLUSH." As you know, "Good<lb/>
+Housekeeping" have now reluctantly come to the final<lb/>
+conclusion - as was the case previously with "Woman's<lb/>
+Journal" - that the subtle qualities of this work<lb/>
+could not be sufficiently well conveyed in monthly<lb/>
+instalments to make a monthly magazine a suitable<lb/> 
+medium. This view I find is shared by the editor of<lb/>
+the "Strand", in spite of the fact that he is anxiously<lb/>
+seeking for material of a somewhat less obvious nature<lb/>
+than that which they have tended to run in the past:<lb/>
+and was therefore particularly grateful for being given<lb/>
+the opportunity of considering the present MS.<lb/>
+                </p>
+<p>
+There are still such mediums as the "Telegraph"<lb/>
+and "Evening Standard" with whom one might discuss the<lb/>
+possibilities - though their space is, generally speak-<lb/>
+ing, very restricted at present:- but first I shall be<lb/>
+glad to know how you view the following suggestion which<lb/>
+comes from "Time and Tide":-<lb/>
+</p>
+<p>
+I am frequently asked by Lady Rhondda to give her<lb/>
+the chance of acquiring material of first-class impor-<lb/>
+tance: on the understanding that she will endeavour, in<lb/>
+such cases, to put forward offers at a considerably higher<lb/>
+rate than that ruling in the weekly field as a whole: and<lb/>
+I therefore rang her up tentatively in the matter the<lb/>
+other day: without, that is to say, actually showing her<lb/>
+the MS. until I knew how you would view "Time and Tide"
+<pb/>
+as a medium. She is, as I anticipated, intensly<lb/>
+interested, and is asking whether - Mrs. Woolf<lb/>
+having agreed that it might be out for serial pur-<lb/>
+poses - she would consider a proposal to run, say,<lb/>
+roughly Twenty Thousand Words in seven parts at<lb/>
+Seventy-Five Pounds for First British Serial Rights<lb/>
+only:- with the further possibility of running an<lb/>
+eighth instalment.<lb/>
+</p>
+<p>
+I think there would be no doubt but that we could<lb/>
+arrange publication so as to make way for the appear-<lb/>
+ance of the book in June, as you plan, and to arrange<lb/>
+further that "Time and Tide" run a line making it quite<lb/>
+clear that it will be published by the Hogarth Press.<lb/>
+</p>
+<p>
+May I than know how you would like me to proceed<lb/>
+with "Time and Tide" - with whom, by the way, I have<lb/>
+not argued at all as yet on the price basis: waiting<lb/>
+first to hear your views.<lb/>
+</p>
+<p>
+Miss Head, by the way, was most anxious that I<lb/>
+should say how keenly she is looking forward to the<lb/>
+chance of securing for "Good Housekeeping" the continus-<lb/>
+tion of "A ROOM OF ONE'S OWN", if and when this materialises,<lb/>
+as discussed with Mrs. Woolf.
+                </p>
+                <closer>
+                    <salute>
+                        Yours sincerely,
+                    </salute>
+                   <signed><gap reason="We can see that a signature is present, however it appears to be illegible."/></signed>
+                    <address>
+                        <addrLine>
+                            6, Henrietta Street,
+                        </addrLine>
+                        <addrLine>
+                            Covent Garden
+                        </addrLine>
+                        <addrLine>
+                            London, W.C.2.
+                        </addrLine>
+                    </address>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
