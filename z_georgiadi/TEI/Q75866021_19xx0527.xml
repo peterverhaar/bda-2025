@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q75866021_19xx0527">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from <persName type="sender" key=":Q75866021">Annabel Trench</persName> to <persName type="recepient" key=":Q703935">Mr Woolf</persName>, <date>19xx-05-27</date>: A
+                    machine-readable transcription</title>
+                <author>
+                    <persName key=":Q75866021">Annabel Trench</persName>
+                </author>
+                <principal> <persName> Prof. dr. Adriaan van der Weel </persName> </principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        <persName>Zoe Georgiadi</persName> 
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        <persName>Zoe Georgiadi</persName>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        <persName>Zoe Georgiadi</persName>
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                7,87 KB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q75866021_19xx0527
+              </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName type="sender" key=":Q75866021">Annabel Trench </persName> to <persName type="recepient" key=":Q703935">Mr Woolf </persName>,<date>19xx-05-27</date>
+                    </title>
+                    <author>
+                        <persName key=":Q75866021">Annabel Trench </persName> 
+                    </author>
+                    <idno type="callNo">
+                        SxMs-13 /1/Q/3/D>
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the <date>2025-2026 </date>
+                    The Book in The Digital Age course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                <persName key=":Q75866021">Annabel Trench</persName> thanks <persName key=":Q703935"> Leonard Woolf </persName> for her time at working at Chatto and Windus, 
+                        and regrets not being able to say farewell personally. 
+                        She states she is planning to work part-time for Colin Legum 
+                        from The Observer, who is the Middle East and Africa correspondent. 
+                        Handwritten letter signed by Annabel Trench.</p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            Surrey, United Kingdom
+                        </placeName>
+                        <date>
+                            May 27th
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <orgName key=":Q703935">Leonard Woolf</orgName> 
+                        </addrLine>
+                        <addrLine>
+                            Flat One39 Petersham Road, Richmond, Surrey,01-940 9269
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear <persName> <choice> <abbr>Mr.</abbr> <expan> Mister </expan> </choice> Wolf. </persName>
+                    </salute>
+                </opener>
+                <p>
+                   <date>May 27th</date> 
+                    Dear <persName> <choice> <abbr> Mr. </abbr> <expan> Mister </expan></choice> Wolf.</persName>
+                    I was sad not to have been 
+                    over to say good-bye to you personally
+                    before leaving <orgName> <choice> <orig>Chatto’s</orig> <reg> Chatto and Windus </reg> </choice> </orgName>, so this is 
+                    just to say how very much I enjoyed
+                    working for you during my time 
+                    at the office. I am sorry that I wasn’t 
+                    able to stay and see the last volume
+                    of your autobiography through to pub-
+                    lication. 
+                    I am about to start a 
+                    part – time job for one of <orgName>The Observer</orgName> 
+                    editors,<persName>Colin Legun</persName>, who you probably
+                    know is the <placeName>Middle East</placeName> and <placeName>Africa</placeName>
+                    counterpart for the papers.<unclear reason="illegible">Howarth 
+                    Sune</unclear>– are to work at his home <placeName>Richmond</placeName>
+                    dealing with his non – 
+                    newspaper activities. I know that much of 
+                    what I have learned helping with Chatto 
+                    and <unclear reason="illegible"> Howarth </unclear> works will not be very useful, and
+                    as I know very little about the subject
+                    that I shall be dealing with I should be
+                    constantly learning which I think is a very 
+                    good thing. 
+                    Please do not <unclear reason="smudge"> </unclear> bother to answer
+                    this. I am sure you have lot of 
+                    other letters to reply to. 
+                    I do hope you are getting very 
+                    much better and enjoying what sun 
+                    you may be having in <placeName>Sussex.</placeName> It’s 
+                    rainy and sunny <unclear reason="illegible">less</unclear> alternatively.                                 
+          </p>
+                <closer>
+                    <salute>
+                    With all best wishes, 
+                    Yours sincerely!
+                    </salute>
+                    <signed/> 
+                    <persName>Annabel</persName>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
