@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BGLW_050846">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Barbare Gee to Leonard Woolf, 5-8-46: A
+                    machine-readable transcription</title>
+                <author>
+                    Barbara Gee
+                </author>
+                <principal><choice><abbr>Prof.</abbr><expan>Professor</expan></choice> <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Veerle Peene
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Veerle Peene
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Veerle Peene
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+            Kbyte  
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                BGLW_050846
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName type= "sender" key="">Barbara Gee</persName> to <persName type= "recipient" key="Q703935">Leonard Woolf</persName>, <date when="1946-08-05"></date>
+                    </title>
+                    <author>
+                        Barbara Gee
+                    </author>
+                    <idno type="SxMs-13/1/Q/3/D">
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    The Book in the Digital Age course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                <persName key="">Barbara Gee</persName> writes to <persName key="Q703935">Leonard Woolf</persName>, in order to thank him for the 
+                last five years, in which she worked for him. She also thanks him 
+                for the &#xA3;25 he gave her as a bonus. She feels like she did not get 
+                to say a proper goodbye, which is why she has chosen to write him to 
+                express these feelings. 
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1946-08-05">
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine> 
+                            20. William Road
+                            <lb/>    Hitchin
+                            <lb/>    Heits 
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear <persName><choice><abbr>Mr.</abbr><expan>Mister</expan></choice> Woolf</persName>,
+                    </salute>
+                </opener>
+                <p>
+                    <lb/>   Thank you very much 
+                    <lb/>   indeed for your kind letters, and 
+                    <lb/>   cheque for &#xA3;25 as bonus for the 
+                    <lb/>   past year, it was nice of you 
+                    <lb/>   to write to me and I do appreciate
+                    <lb/>   it and, needless to say, the 
+                    <lb/>   cheque will be most useful! 
+                    <lb/>   I quite understand that 
+                    <lb/>   in the general upheaval there was 
+                    <lb/>   no opportunity of saying goodbye
+                    <lb/>   and I would like to say how 
+                    <lb/>   nice it was working for the 
+                    <lb/>   press for the five years I was 
+                    <lb/>   with you. 
+                </p>
+                <closer>
+                    <salute>
+                    <lb/> Yours sincerely, 
+                    <lb/>    <persName>Barbara Gee</persName>. 
+                    </salute>
+                    <signed/>
+                    <seg>
+                    </seg>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
