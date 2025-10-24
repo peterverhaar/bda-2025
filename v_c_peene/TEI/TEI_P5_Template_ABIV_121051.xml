@@ -53,7 +53,7 @@
 
             <sourceDesc>
                 <bibl>
-                    <title>Letter from <persName type= "sender" key="MAPP0011">Aline Burch</persName> to <orgName type= "receiver" key="Q316015">Insel-Verlag</orgName>, <date when="1951-10-12"></date>
+                    <title>Letter from <persName type="sender" key="MAPP0011">Aline Burch</persName> to <orgName type="receiver" key="Q316015">Insel-Verlag</orgName>, <date when="1951-10-12"></date>
                     </title>
                     <author>
                         <persName>Aline Burch</persName> 
@@ -81,12 +81,12 @@
         <front>
             <div type="summary">
                 <p>
-                    In this letter, <persName>Aline Burch</persName> writes on behalf of her company <orgName key= "Q1623362">the Hogarth Press <choice><abbr>Ltd.</abbr><expan>Limited</expan></choice></orgName> to 
-                    <persName key= "Q1461148"> <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>, who works for the publisher <orgName>Insel Verlag</orgName>. Aline tells <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Michael 
-                that she has enclosed  a copy of the novel SADO by <persName key= "Q1282985">William Plomer</persName>. She thinks he will 
+                    In this letter, <persName>Aline Burch</persName> writes on behalf of her company <orgName key="Q1623362">the Hogarth Press <choice><abbr>Ltd.</abbr><expan>Limited</expan></choice></orgName> to 
+                    <persName key="Q1461148"> <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>, who works for the publisher <orgName>Insel Verlag</orgName>. Aline tells <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Michael 
+                that she has enclosed a copy of the novel SADO by <persName key="Q1282985">William Plomer</persName>. She thinks he will 
                 greatly enjoy the author’s work, but also thinks that he might be interested in 
                 translating said novel to German. She also mentions that the initial request comes from
-                    <persName key= "Q55675211"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> L.L. Weltmann</persName>.
+                    <persName key="Q55675211"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> L.L. Weltmann</persName>.
                 </p>
             </div>
         </front>
