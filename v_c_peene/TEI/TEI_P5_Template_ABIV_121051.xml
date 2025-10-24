@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ABIV_121051">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Aline Burch to Insel-Verlag, 1951-10-12: A
+                    machine-readable transcription</title>
+                <author>
+                    Aline Burch
+                </author>
+                <principal><choice><abbr>Prof.</abbr><expan>Professor</expan></choice> <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Veerle Peene
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Veerle Peene
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Veerle Peene 
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+            kByte
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                 ABIV_121051
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName type= "sender" key="MAPP0011">Aline Burch</persName> to <orgName type= "receiver" key="Q316015">Insel-Verlag</orgName>, <date when="1951-10-12"></date>
+                    </title>
+                    <author>
+                        <persName>Aline Burch</persName> 
+                    </author>
+                    <idno type="MS2750/348/44">
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    The Book in the Digital Age Course, Book and Digital Media Studies, Leiden
+                    University
+                </p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    In this letter, <persName>Aline Burch</persName> writes on behalf of her company <orgName key= "Q1623362">the Hogarth Press <choice><abbr>Ltd.</abbr><expan>Limited</expan></choice></orgName> to 
+                    <persName key= "Q1461148"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>, who works for the publisher <orgName>Insel Verlag</orgName>. Aline tells <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Michael 
+                that she has enclosed  a copy of the novel SADO by <persName key= "Q1282985">William Plomer</persName>. She thinks he will 
+                greatly enjoy the author’s work, but also thinks that he might be interested in 
+                translating said novel to German. She also mentions that the initial request comes from
+                    <persName key= "Q55675211"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice>L.L. Weltmann</persName>.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1951-10-12">
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>
+                        </addrLine>
+                        <addrLine> Karlstrasse 38, 
+                        <lb/><placeName><choice><sic>Weisbaden</sic><corr>Wiesbaden</corr></choice></placeName>, 
+                        <lb/> Germany. 
+                        </addrLine>
+                    </address>
+                    <seg>
+                        <persName><choice><abbr>AB</abbr><expan>Aline Burch</expan></choice></persName>    
+                    </seg>
+                    <salute>
+                        Dear <persName><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice>Michael</persName>, 
+                    </salute>
+                </opener>
+                <p>
+                   <lb/>   We have been asked by<persName><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice>L.L.
+                   <lb/>   Weltmann</persName> to let you have a copy of 
+                   <lb/>   SADO by <persName>William Plomer</persName> and I have 
+                    <lb/>   pleasure in enclosing a copy.   <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> 
+                   <lb/>   <persName>Weltmann</persName> thinks that you would like
+                   <lb/>   to consider this book with a view to 
+                   <lb/>   a German translation and that you might
+                    <lb/>   probably be interested in <persName><choice><abbr>Mr.</abbr><expan>Mister</expan></choice> Plomer's</persName>
+                   <lb/>   work as a whole.    We very much hope 
+                   <lb/>   that you will be impressed by SADO 
+                   <lb/>   and shall look forward to hearing 
+                   <lb/>   from you about it in due course. 
+                   
+                </p>
+                <closer>
+                    <salute>
+                        Yours sincerely, 
+                        <lb/>for <orgName>the Hogarth Press <choice><abbr>Ltd.</abbr><expan>Limited</expan></choice></orgName>
+                    </salute>
+                    <signed/>
+                    <seg>
+                    </seg>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
