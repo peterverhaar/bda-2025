@@ -82,11 +82,11 @@
             <div type="summary">
                 <p>
                     In this letter, <persName>Aline Burch</persName> writes on behalf of her company <orgName key= "Q1623362">the Hogarth Press <choice><abbr>Ltd.</abbr><expan>Limited</expan></choice></orgName> to 
-                    <persName key= "Q1461148"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>, who works for the publisher <orgName>Insel Verlag</orgName>. Aline tells <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Michael 
+                    <persName key= "Q1461148"> <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>, who works for the publisher <orgName>Insel Verlag</orgName>. Aline tells <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Michael 
                 that she has enclosed  a copy of the novel SADO by <persName key= "Q1282985">William Plomer</persName>. She thinks he will 
                 greatly enjoy the author’s work, but also thinks that he might be interested in 
                 translating said novel to German. She also mentions that the initial request comes from
-                    <persName key= "Q55675211"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice>L.L. Weltmann</persName>.
+                    <persName key= "Q55675211"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> L.L. Weltmann</persName>.
                 </p>
             </div>
         </front>
@@ -110,11 +110,11 @@
                         <persName><choice><abbr>AB</abbr><expan>Aline Burch</expan></choice></persName>    
                     </seg>
                     <salute>
-                        Dear <persName><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice>Michael</persName>, 
+                        Dear <persName><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Michael</persName>, 
                     </salute>
                 </opener>
                 <p>
-                   <lb/>   We have been asked by<persName><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice>L.L.
+                   <lb/>   We have been asked by <persName><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> L.L.
                    <lb/>   Weltmann</persName> to let you have a copy of 
                    <lb/>   SADO by <persName>William Plomer</persName> and I have 
                     <lb/>   pleasure in enclosing a copy.   <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> 
