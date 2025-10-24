@@ -105,10 +105,7 @@
         <body>
             <div type="letter">
                 <opener>
-                    <dateline>
-                        <placeName>
-                            Surrey, United Kingdom
-                        </placeName>
+                    <dateline> 
                         <date>
                             May 27th
                         </date>
@@ -118,7 +115,9 @@
                             <orgName key=":Q703935">Leonard Woolf</orgName> 
                         </addrLine>
                         <addrLine>
-                            Flat One39 Petersham Road, Richmond, Surrey,01-940 9269
+                            Flat One39 Petersham Road, <lb/>
+                            Richmond, Surrey,<lb/>
+                            01-940 9269<lb/>
                         </addrLine>
                     </address>
                     <salute>
@@ -127,40 +126,40 @@
                 </opener>
                 <p>
                     I was sad not to have been<lb/>
-                    over to say good-bye to you personally
-                    before leaving <orgName> <choice> <orig>Chatto’s</orig> <reg> Chatto and Windus </reg> </choice> </orgName>, so this is 
-                    just to say how very much I enjoyed
-                    working for you during my time 
-                    at the office. I am sorry that I wasn’t 
-                    able to stay and see the last volume
-                    of your autobiography through to pub-
-                    lication. 
-                    I am about to start a 
-                    part – time job for one of <orgName>The Observer</orgName> 
-                    editors,<persName>Colin Legun</persName>, who you probably
-                    know is the <placeName>Middle East</placeName> and <placeName>Africa</placeName>
-                    counterpart for the papers.<unclear reason="illegible">Howarth 
-                    Sune</unclear>– are to work at his home <placeName>Richmond</placeName>
-                    dealing with his non – 
-                    newspaper activities. I know that much of 
-                    what I have learned helping with Chatto 
-                    and <unclear reason="illegible"> Howarth </unclear> works will not be very useful, and
-                    as I know very little about the subject
-                    that I shall be dealing with I should be
-                    constantly learning which I think is a very 
-                    good thing. 
-                    Please do not <unclear reason="smudge"> </unclear> bother to answer
-                    this. I am sure you have lot of 
-                    other letters to reply to. 
-                    I do hope you are getting very 
-                    much better and enjoying what sun 
-                    you may be having in <placeName>Sussex.</placeName> It’s 
-                    rainy and sunny <unclear reason="illegible">less</unclear> alternatively.                                 
+                    over to say good-bye to you personally <lb/>
+                    before leaving <orgName> Chatto’s </orgName> <note> Chatto and Windus were London based publishers </note> , so this is <lb/>
+                    just to say how very much I enjoyed <lb/>
+                    working for you during my time <lb/>
+                    at the office. I am sorry that I wasn’t <lb/>
+                    able to stay and see the last volume <lb/>
+                    of your autobiography through to pub- <lb/>
+                    lication. <lb/>
+                    I am about to start a <lb/>
+                    part – time job for one of <orgName>The Observer</orgName> <lb/>
+                    editors,<persName>Colin Legun</persName>, who you probably <lb/>
+                    know is the <placeName key=":Q7204"> Middle East </placeName> and <placeName key=":Q15">Africa</placeName> <lb/>
+                    counterpart for the papers.<unclear reason="illegible"> Howarth <lb/>
+                    Sune</unclear>– are to work at his home <placeName>Richmond</placeName> <lb/>
+                    dealing with his non – <lb/>
+                    newspaper activities. I know that much of <lb/>
+                    what I have learned helping with Chatto <lb/>
+                    and <unclear reason="illegible"> Howarth </unclear> works will not be very useful, and <lb/>
+                    as I know very little about the subject <lb/>
+                    that I shall be dealing with I should be <lb/>
+                    constantly learning which I think is a very <lb/>
+                    good thing. <lb/>
+                    Please do not <unclear reason="smudge"> </unclear> bother to answer <lb/>
+                    this. I am sure you have lot of <lb/>
+                    other letters to reply to. <lb/>
+                    I do hope you are getting very <lb/>
+                    much better and enjoying what sun <lb/>
+                    you may be having in <placeName>Sussex.</placeName> It’s <lb/>
+                    rainy and sunny <unclear reason="illegible">less</unclear> alternatively.<lb/>                         
           </p>
                 <closer>
                     <salute>
-                    With all best wishes, 
-                    Yours sincerely!
+                    With all best wishes, <lb/>
+                    Yours sincerely! <lb/>
                     </salute>
                     <signed/> 
                     <persName>Annabel</persName>
