@@ -66,8 +66,8 @@
         <encodingDesc>
             <projectDesc>
                 <p>Prepared by students of the 2025-2026
-                    The Book in the Digital Age Course, Book and Digital Media Studies, Leiden
-                    University
+                   The Book in the Digital Age Course, Book and Digital Media Studies, Leiden
+                   University
                 </p>
             </projectDesc>
             <editorialDecl>
@@ -82,7 +82,7 @@
             <div type="summary">
                 <p>
                     In this letter, <persName>Aline Burch</persName> writes on behalf of her company <orgName key="Q1623362">the Hogarth Press <choice><abbr>Ltd.</abbr><expan>Limited</expan></choice></orgName> to 
-                    <persName key="Q1461148"> <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>, who works for the publisher <orgName>Insel Verlag</orgName>. Aline tells <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Michael 
+                    <persName key="Q1461148"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>, who works for the publisher <orgName>Insel Verlag</orgName>. Aline tells <choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Michael 
                 that she has enclosed a copy of the novel SADO by <persName key="Q1282985">William Plomer</persName>. She thinks he will 
                 greatly enjoy the author’s work, but also thinks that he might be interested in 
                 translating said novel to German. She also mentions that the initial request comes from
@@ -100,10 +100,10 @@
                     <address>
                         <addrLine>
                             <persName><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> Friedich Michael</persName>
+                            <lb/><orgName>Insel-Verlag</orgName>, 
                         </addrLine>
                         <addrLine> Karlstrasse 38, 
-                        <lb/><placeName><choice><sic>Weisbaden</sic><corr>Wiesbaden</corr></choice></placeName>, 
-                        <lb/> Germany. 
+                        <lb/><placeName><choice><sic>Weisbaden</sic><corr>Wiesbaden</corr></choice></placeName>, Germany. 
                         </addrLine>
                     </address>
                     <seg>
@@ -121,7 +121,7 @@
                    <lb/>   <persName>Weltmann</persName> thinks that you would like
                    <lb/>   to consider this book with a view to 
                    <lb/>   a German translation and that you might
-                    <lb/>   probably be interested in <persName><choice><abbr>Mr.</abbr><expan>Mister</expan></choice> Plomer's</persName>
+                   <lb/>   probably be interested in <persName><choice><abbr>Mr.</abbr><expan>Mister</expan></choice> Plomer's</persName>
                    <lb/>   work as a whole.    We very much hope 
                    <lb/>   that you will be impressed by SADO 
                    <lb/>   and shall look forward to hearing 
