@@ -56,7 +56,7 @@
                     <title>Letter from <persName type= "sender" key="">Barbara Gee</persName> to <persName type= "recipient" key="Q703935">Leonard Woolf</persName>, <date when="1946-08-05"></date>
                     </title>
                     <author>
-                        Barbara Gee
+                        <persName>Barbara Gee</persName>
                     </author>
                     <idno type="SxMs-13/1/Q/3/D">
                     </idno>
@@ -80,7 +80,7 @@
         <front>
             <div type="summary">
                 <p>
-                <persName key="">Barbara Gee</persName> writes to <persName key="Q703935">Leonard Woolf</persName>, in order to thank him for the 
+                <persName>Barbara Gee</persName> writes to <persName>Leonard Woolf</persName>, in order to thank him for the 
                 last five years, in which she worked for him. She also thanks him 
                 for the &#xA3;25 he gave her as a bonus. She feels like she did not get 
                 to say a proper goodbye, which is why she has chosen to write him to 
@@ -103,7 +103,7 @@
                         </addrLine>
                     </address>
                     <salute>
-                        Dear <persName><choice><abbr>Mr.</abbr><expan>Mister</expan></choice> Woolf</persName>,
+                        Dear <persName key="Q703935"><choice><abbr>Mr.</abbr><expan>Mister</expan></choice> Woolf</persName>,
                     </salute>
                 </opener>
                 <p>
@@ -125,7 +125,7 @@
                 <closer>
                     <salute>
                     <lb/> Yours sincerely, 
-                    <lb/>    <persName>Barbara Gee</persName>. 
+                    <lb/>    <persName key="">Barbara Gee</persName>. 
                     </salute>
                     <signed/>
                     <seg>
