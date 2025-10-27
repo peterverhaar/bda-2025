@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q1857635419501020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Ian Parsons to Leonard Woolf, 20 October 1950: A
+                    machine-readable transcription</title>
+                <author>
+                    Ian Parsons
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Hsuan Chen
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Hsuan Chen
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Hsuan Chen
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                7 kBytes
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q1857635419501020
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName key="Q18576354">Ian Parsons</persName> to <persName key="Q703935">Leonard Woolf</persName>, <date when="1950-10-20">20 October 1950</date>.
+                    </title>
+                    <author>
+                        Ian Parsons
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/575/54
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Ian Parsons enclosed Penguin Book's draft blurb for The Waves for Leonard Woolf to review and informed him that he could communicate any comments directly to Eunice Frost.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1950-10-20">
+                            October 20th, 1950.
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName key="Q703935">Leonard Woolf</persName>, Esq.,
+                        </addrLine>
+                        <addrLine>
+                            <choice><sic>Monks</sic><corr>Monk's</corr></choice> House,
+                        </addrLine>
+                        <addrLine>
+                            Rodmell,
+                        </addrLine>
+                        <addrLine>
+                            Near Lewes, Sussex.
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear <persName key="Q703935">Leonard</persName>,
+                    </salute>
+                </opener>
+                <p>
+                    <persName key="Q24845248">Eunice Frost</persName> of 
+                    <choice>
+                        <orig><orgName key="Q1336200">Penguins</orgName></orig>
+                        <reg><orgName key="Q1336200">Penguin Books</orgName></reg>
+                    </choice> has just sent <lb/>
+                    me the enclosed draft blurb for their edition <lb/>
+                    of "<title>The Waves</title>". A copy of their covering <lb/>
+                    letter is also enclosed. I have told her <lb/>
+                    that I felt sure you would like to see it <lb/>
+                    personally, and that I would ask you to <lb/>
+                    return it direct to her with any comments <lb/>
+                    that you may have.
+                </p>
+                <closer>
+                    <salute>
+                        Yours,
+                    </salute>
+                    <signed>
+                        <choice>
+                            <abbr><persName key="Q18576354">IMP</persName></abbr>
+                            <expan><persName key="Q18576354">Ian Macnaghten Parsons</persName></expan>
+                        </choice>/
+                        <choice>
+                            <abbr><persName key="MAPP0061">HG</persName></abbr>
+                            <expan><persName key="MAPP0061">H. Gillian</persName></expan>
+                        </choice><note><p>"HG" most likely refers to "H. Gillian", who is documented as the typist. The full name could not be identified.</p></note>.
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

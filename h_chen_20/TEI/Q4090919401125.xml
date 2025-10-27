@@ -4,31 +4,33 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                
                 <title>Letter from Virginia Woolf to Miss Perkins, 25 November 1940: A
                     machine-readable transcription</title>
-                <author>Virginia Woolf</author>
+                <author>
+                    Virginia Woolf
+                </author>
                 <principal>Prof. dr. Adriaan van der Weel</principal>
-                
                 <respStmt>
                     <resp>Creation of machine-readable version: </resp>
-                    <name>Hsuan Chen</name>
+                    <name>
+                        Hsuan Chen
+                    </name>
                 </respStmt>
-                
                 <respStmt>
                     <resp>Conversion to TEI-conformant markup: </resp>
-                    <name>Hsuan Chen</name>
+                    <name>
+                        Hsuan Chen
+                    </name>
                 </respStmt>
-
                 <respStmt>
                     <resp>Editorial annotations: </resp>
-                    <name>Hsuan Chen</name>
+                    <name>
+                        Hsuan Chen
+                    </name>
                 </respStmt>
-
             </titleStmt>
-
             <extent>
-                7 kBytes
+                8 kBytes
             </extent>
 
 
@@ -51,7 +53,7 @@
 
             <sourceDesc>
                 <bibl>
-                    <title>Letter from <persName key="Q40909">Virginia Woolf</persName> to <persName>Miss Perkins</persName>, <date when="1940-11-25">25 November 1940</date>.
+                    <title>Letter from <persName key="Q40909">Virginia Woolf</persName> to <persName key="MAPP0062">Miss Perkins</persName>, <date when="1940-11-25">25 November 1940</date>.
                     </title>
                     <author>
                         Virginia Woolf
@@ -103,12 +105,20 @@
             <div type="letter">
                 <opener>
                     <dateline>
+                        <placeName>
+                            Lewes
+                        </placeName>
                         <date when="1940-11-25">
                             25th Nov. 1940
                         </date>
                     </dateline>
+                    <address>
+                        <addrLine>
+                            <persName key="MAPP0062">Miss Perkins</persName>
+                        </addrLine>
+                    </address>
                     <salute>
-                        Dear <persName>Miss Perkins</persName><note><p>The person is unidentifiable from Wikidata and further investigation.</p></note>,
+                        Dear <persName key="MAPP0062">Miss Perkins</persName><note><p>"Miss Perkins" likely refers to "<persName key="MAPP0062">Winifred Perkins</persName>", who worked at <orgName key="Q1623362">The Hogarth Press</orgName> at the time.</p></note>,
                     </salute>
                 </opener>
                 <p>
@@ -128,8 +138,7 @@
                     <choice>
                         <orig><persName key="Q54168">Pierpont Morgan</persName></orig>
                         <reg><persName key="Q54168">John Pierpont Morgan</persName></reg>
-                    </choice>
-                    's son<note><p>Pierpont Morgan's son refers to <persName key="Q174774">John Pierpont Morgan Jr.</persName></p></note>. These are: <lb/>
+                    </choice>'s son<note><p>"Pierpont Morgan's son" refers to "<persName key="Q174774">John Pierpont Morgan Jr.</persName></p></note>" These are: <lb/>
                     to delete on page 140 (near the beginning) <lb/>
                     the senetnce that begins "I knew the answer beforehand..." <lb/>
                     and to delete on page 144 (in the middle) the <lb/>
@@ -140,7 +149,7 @@
                 </p>
                 <p>
                     I wonder how you like <placeName>Letchworth</placeName>? It seems an age since <lb/>
-                    we saw you and <persName>Miss Griffiths</persName><note><p>The person is unidentifiable from Wikidata and further investigation.</p></note>. We are having to <lb/>
+                    we saw you and <persName key="MAPP0060">Miss Griffiths</persName><note><p>No further information about this individual could be identified upon further investigation.</p></note>. We are having to <lb/>
                     bring down all the furniture in the flat, as it is <lb/>
                     getting waterlogged. What a bore it all is-- <lb/>
                     Here we have had a tremendous flood, owing to a <lb/>
@@ -159,12 +168,11 @@
                     <signed>
                         Virginia Woolf
                     </signed>
-                    <placeName>
-                        Monks House, Rodmell, Lewes.
-                    </placeName>
-                    <seg>
-                        <!-- post scriptum -->
-                    </seg>
+                    <address>
+                        <addrLine>
+                            <choice><sic>Monks</sic><corr>Monk's</corr></choice> House, Rodmell, Lewes.
+                        </addrLine>
+                    </address>
                 </closer>
             </div>
         </body>
