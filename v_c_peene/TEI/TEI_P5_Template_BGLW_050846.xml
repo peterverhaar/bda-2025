@@ -30,7 +30,7 @@
                 </respStmt>
             </titleStmt>
             <extent>
-            Kbyte  
+            5.840  
             </extent>
 
 
@@ -53,7 +53,7 @@
 
             <sourceDesc>
                 <bibl>
-                    <title>Letter from <persName type= "sender" key="">Barbara Gee</persName> to <persName type= "recipient" key="Q703935">Leonard Woolf</persName>, <date when="1946-08-05">5 August 1946</date>
+                    <title>Letter from <persName type= "sender" key="MAPP0050">Barbara Gee</persName> to <persName type= "recipient" key="Q703935">Leonard Woolf</persName>, <date when="1946-08-05">5 August 1946</date>
                     </title>
                     <author>
                         <persName>Barbara Gee</persName>
@@ -125,7 +125,7 @@
                 <closer>
                     <salute>
                     <lb/> Yours sincerely, 
-                    <lb/>    <persName key="">Barbara Gee</persName>. 
+                    <lb/>    <persName key="MAPP0050">Barbara Gee</persName>. 
                     </salute>
                     <signed/>
                     <seg>
