@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q52156841_19440912">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from C.Henry Warren to The Hogarth Press, 12 September 1944: A
+                    machine-readable transcription</title>
+                <author>
+                    C.Henry Warren
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Yiling Chen
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Yiling Chen
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Yiling Chen
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                8 kB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno type="DOI">
+                    Q52156841_19440912
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>
+                     Letter from <persName key="Q52156841">C.Henry Warren</persName> to <orgName key="Q1623362">The Hogarth Press</orgName>, <date when="1944-09-12">12 September 1944</date>.
+                    </title>
+                    <author>
+                        C.Henry Warren
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/361/5
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium course, 
+                    Book and Digital Media Studies, Leiden University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Warren writes regarding his anthology <title>The Good Life</title> and asks to include Frank Prewett's poem <title>Be Kind to Animals</title> from <title>Poems</title>. 
+                    He enquires what the fee would be for publishing in Britain and the World and the USA.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName key="Q676067">
+                        <settlement>Braintree</settlement>
+                        <region>Essex</region>
+                        </placeName>
+                        <date when="1944-09-12">12 September 1944</date>
+                    </dateline>
+                    <address>
+                        <addrLine><orgName key="Q1623362">The Hogarth Press</orgName>,</addrLine>
+                        <addrLine>Pixmore Avenue.</addrLine>
+                        <addrLine>Letchworth, Herts'.</addrLine>
+                    </address>
+                    <salute>Dear Sirs,</salute>
+                </opener>
+                <p>
+                    I am editing an Anthology called <title>THE GOOD LIFE</title>
+                    <note><p>This book came out in 1946, published by Eyre and Spottiswoode. 
+                            The full title was The Good Life: 
+                            An Anthology of the Life and Work of the Countryside, 
+                            in Prose and Poetry.</p></note>,<lb/>
+                    to be published next year by <orgName key="Q5422976">Messrs Eyre and Spottiswoode</orgName>,<lb/>
+                    and wish to include the following poem:<lb/>
+                    
+                    <persName key="Q1257757">Frank Prewett</persName>: <title>Be Kind to Animals</title> (from <title>Poems</title>
+                    <note><p>Poems refers to the collection of poems by Frank Prewett, published in 1921, 
+                            which is the only book written by a Canadian to be published by the Hogarth Press.</p></note>)<lb/>
+                    
+                   If permission can be granted, would you kindly let me know<lb/>
+                   the fee required covering (a) Britain and the World, and<lb/>
+                   (b) the U.S.A. I am not sure yet whether we shall be able<lb/>
+                   to publish in the U.S.A., but we shall make every effort<lb/>
+                   to place the volume there.
+                </p>
+                <p>
+                       We shall, of course, make the fullest acknowlegde-<lb/>
+                       ment to Author and Publisher.
+                </p>
+                <p><add place="below" type="handwriting">
+                        <unclear reason="bad handwriting">"I been in touch</unclear> with<lb/>
+                        author for <unclear reason="bad handwriting">some time</unclear><lb/>
+                        <unclear reason="bad handwriting">but that</unclear> we can <unclear reason="bad handwriting">handle</unclear><lb/>
+                        his rights<lb/>
+                        Suggest 1.1.0 for B.E. <unclear reason="bad handwriting">nature or</unclear><lb/>
+                        1.1.0 for U.S.A."
+                        <note><p>The unclear handwritten annotation was added by The Hogarth Press.</p></note>
+                </add>
+                </p>
+                <closer>
+                    <salute>Yours faithfully,</salute>
+                    <signed>C. Henry Warren</signed>
+                    <address>
+                        <addrLine>Timbers,</addrLine>
+                        <addrLine>Finchingfield,</addrLine>
+                        <addrLine>Nr. Braintree,</addrLine>
+                        <addrLine>Essex.</addrLine>
+                    </address>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

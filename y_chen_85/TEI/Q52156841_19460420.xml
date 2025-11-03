@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q52156841_19460420">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from C.Henry Warren to The Hogarth Press, 20 April 1946: 
+                    A machine-readable transcription</title>
+                <author>
+                    C.Henry Warren
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Yiling Chen
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Yiling Chen
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Yiling Chen
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                7 kB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno type="DOI">
+                    Q52156841_19460420
+                </idno>
+                <availability>
+                    <p>Publicly accessible</p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>
+                        Letter from <persName key="Q52156841">C.Henry Warren</persName> to <orgName key="Q1623362">The Hogarth Press</orgName>, <date when="1946-04-20">20 April 1946</date>.
+                    </title>
+                    <author>
+                        C.Henry Warren
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/361/8
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium course, 
+                    Book and Digital Media Studies, Leiden University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                Warren explains that his anthology has not yet been published. 
+                He hopes that the book will came out in the summer.
+                He also promises that as soon as the book is published the fee for Frank Prewett's poem included in the book will be forwarded to The Hogarth Press.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                            <placeName key="Q676067">
+                                <settlement>Braintree</settlement>
+                                <region>Essex</region>
+                            </placeName>
+                        <date when="1946-04-20">20 April 1946</date>
+                    </dateline>
+                    <address>
+                            <addrLine><orgName key="Q1623362">The Hogarth Press</orgName>,</addrLine>
+                            <addrLine>37 Mecklenburgh Sq. WC.</addrLine>
+                    </address>
+                    <salute>Dear Sirs,</salute>
+                </opener>
+                <p>
+                    In reply to<lb/>
+                    your enquiry concerning my<lb/> 
+                    anthology <title><choice><orig>the good life</orig><reg>The Good Life: 
+                                An Anthology of the Life and Work of the Countryside, 
+                                in Prose and Poetry.</reg></choice></title> (<orgName key="Q5422976">Eyre<lb/> 
+                    &amp; Spottiswoode</orgName>), this has not<lb/> 
+                    yet been published. <note><p>The book was originally planned for publication in 1945, 
+                            according to Warren's correspondence with The Hogarth Press on 12 September 1944.</p></note> For<lb/> 
+                    reasons which will be all too<lb/> 
+                    familiar to you, it has been<lb/> 
+                    continually held up. It is<lb/> 
+                    hoped, however, that the book<lb/> 
+                    will appear this summer; ,<note><p>The book was sucessfully published that year.</p></note><lb/> 
+                    of course, as soon as it is<lb/> 
+                    published, the fee for <persName key="Q1257757">Mr. Frank<lb/> 
+                    Prewett</persName>'s poem
+                    <note><p>Poem refers to Frank Prewett's poem "Be Kind to Animals", 
+                            which was once published by The Hogarth Press and Warren included this poem in his anthology The Good Life.</p></note>
+                    will be forwarded<pb/> 
+                    to you.
+                </p>
+                <closer>
+                    <salute>Yours faithfully,</salute>
+                    <signed>C. Henry Warren</signed>
+                    <address>
+                        <addrLine>Timbers</addrLine>
+                        <addrLine>Finchingfield</addrLine>
+                        <addrLine>N. Braintree</addrLine>
+                        <addrLine>Essex.</addrLine>
+                    </address>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
