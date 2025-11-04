@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q542396819240917">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Flora Mayor to Leonard Wolf, 17 September 1924: A
+                    machine-readable transcription</title>
+                <author>
+                    Flora Mayor
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Myrto Stylou
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Myrto Stylou
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Myrto Stylou
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                6 kBytes
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q542396819240917
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName key="Q5423968">Flora Mayor</persName> to <persName key="Q703935">Leonard Wolf</persName>, <!-- date -->
+                    </title>
+                    <author>
+                        Flora Mayor
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/277/23
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    The Book in the Digital Age course course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Flora Mayor wirtes to Leonard Wolf proposing to place an add in The Cambridge review since it was mentioned in her novel <title>The Rector's Daughter</title>. She then goes on to remark that Oxford is better and that Cambridge has been rather ungrateful.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1924-09-17">
+                            Sept. 17
+                        </date>
+                    </dateline>
+                    <salute>
+                        Dear Mr. Woolf
+                    </salute>
+                </opener>
+                <p>
+                    I have been won- <lb/>
+                    dering whether anything <lb/>
+                    could be done to take <orgName key="Q35794">Cam- <lb/>
+                    bridge</orgName>. What about an ad- <lb/>
+                    vertisement in <orgName key="Q51405544">The Cambridge <lb/>
+                    Review</orgName>? <orgName>Cambridge</orgName> is <lb/>
+                    mentioned so honourably <lb/>
+                    in <title>The Rector's Daughter</title> <lb/>
+                    that I think, it ought to <lb/>
+                    show its appreciation. I <lb/>
+                    do not think <orgName>Cambridge</orgName> <lb/>
+                    has hinted at how superior it <lb/> <pb/>
+                    is to <orgName key="Q34433">Oxford</orgName>. Personally I think <lb/>
+                    <orgName>Cambridge</orgName> has been <lb/>
+                    rather ungrateful about it. <lb/>
+                </p>
+                <closer>
+                    <salute>
+                        Yours sincerely
+                    </salute>
+                    <signed> 
+                        <choice>
+                            <abbr>
+                                <persName key="Q5423968">Fl. Mayor</persName>
+                            </abbr> 
+                        </choice>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q73114619460325">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Edward Upward to Barbara Hepworth, 25 March 1946: A
+                    machine-readable transcription</title>
+                <author>
+                    Edward Upward
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Myrto Stylou
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Myrto Stylou
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Myrto Stylou
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                7 kBytes
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q73114619460325
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName key="Q731146">Edward Upward</persName> to <persName key="Q234109">Barbara Hepworth</persName>, <date when="1946-03-25">25 March 1946</date>.
+                    </title>
+                    <author>
+                        Edward Upward
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/507/3/23
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    The Book in the Digital Age course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Edward Upward writes to Barbara Hepworth in order to inform her that a publisher named Arthaud is interested in a French translation of the book Journey to the Border, and asks her if she would be interested in that.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            <address><addressLine>154 Turney Pd</addressLine>
+                                <addressLine>Dulwich S.E.21</addressLine>
+                            </address>
+                            
+                        </placeName>
+                        <date when="1946-03-25">
+                            25th March 1946
+                        </date>
+                    </dateline>
+                    <salute>
+                        Dear <persName key="Q234109">Miss Hepworth</persName>,
+                    </salute>
+                </opener>
+                <p>
+                    <title>Journey to the Border</title> <lb/>
+                    I understand that <lb/>
+                    inquiries have been made to the <orgName key="Q1623362">Hogarth Press</orgName> <lb/>
+                    by <persName key="Q41706014">M. Perrin</persName> on behalf of the publisher <orgName key="Q2864902">Arthaud</orgName> <lb/>
+                    of <placeName>Grenoble</placeName> about issuing a French translation <lb/>
+                    of <title>Journey to the Border</title>. I shall be glad if <lb/>
+                    you will let me know whether there is any <lb/>
+                    possibility of negotiating an agreement with <lb/>
+                    this firm. <lb/>
+                </p>
+                <closer>
+                    <salute>
+                        Yours sincerely,
+                    </salute>
+                    <signed><persName key="Q731146">Edward Upward</persName>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
