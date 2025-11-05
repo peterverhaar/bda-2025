@@ -109,7 +109,7 @@
                 <opener>
                     <dateline>
                         <date when="1938-02-13">
-                            Feb 13th 1938 <note><p>Recipient's address is missing in the original letter.</p></note> 
+                            Feb 13th 1938 <note><p>Recipient's address is missing in the original letter.</p></note><lb/>
                         </date>
                     </dateline>
                    
@@ -128,7 +128,7 @@
                     
                     Coster</persName> has recently done a very good one. I <lb/>
                     
-                    don’t know whether there is any possibility <lb/>
+                    don&apos;t know whether there is any possibility <lb/>
                     
                     that <del rend="strikethrough">be prepared</del> the <orgName key="BSOC">Book Society</orgName> might <lb/>
                     
@@ -156,7 +156,7 @@
                     </salute>
                     <signed>Edward Upward.</signed>
                     <adress>
-                        <addrLine>39, Woodleigh Gardens,</addrLine>
+                        <addrLine>39, Woodleigh Gardens,</addrLine><lb/>
                         <addrLine>s. w. 16</addrLine> <note><p>This is the sender's address provided at the top of the original letter, moved intentionally to the closer to avoid confusion.</p></note>
                     </adress>
                 </closer>
