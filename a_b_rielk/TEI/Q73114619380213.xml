@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAPP001519320418">
-    
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q73114619380213">
+   
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from Audrey Heffill to Peggy Belsher, 18 April 1932: A
+                <title>Letter from Edward Upward to Dorothy Lange, 13 February 1938: A
                     machine-readable transcription</title>
                 <author>
-                    Audrey Heffill
+                    Edward Upward
                 </author>
                 <principal>Prof. dr. Adriaan van der Weel</principal>
                 <respStmt>
                     <resp>Creation of machine-readable version: </resp>
                     <name>
-                        Annika Rielk
+                       Annika Rielk
                     </name>
                 </respStmt>
                 <respStmt>
@@ -43,7 +43,7 @@
                     <addrLine>2300 RA Leiden</addrLine>
                 </address>
                 <idno>
-                    MAPP001519320418
+                    Q73114619380213
                 </idno>
                 <availability>
                     <p>Publicly accessible </p>
@@ -54,20 +54,20 @@
 
             <sourceDesc>
                 <bibl>
-                    <title>Letter from <persName type="sender" key="MAPP0015">Audrey Heffill</persName> to <persName type="recipient" key="MAPP0014">Peggy Belsher</persName>, <date when="1932-04-18">18 April 1932</date>.
+                    <title>Letter from <persName type="sender" key="Q731146">Edward Upward</persName> to <persName type="recipient" key="MAPP0032">Dorothy Lange</persName>, <date when="1938-02-13">13 February 1938</date>
                     </title>
                     <author>
-                        Audrey Heffill
+                        Edward Upward
                     </author>
                     <idno type="callNo">
-                        MS 2750/410/47
+                        MS 2750/507/3/10
                     </idno>
                 </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Prepared by students of the 2025-2026
+                <p>Prepared by students of the 2025-2026 
                     'The Book in the Digital Age: Agents and Medium' course, Book and Digital Media Studies, Leiden
                     University</p>
             </projectDesc>
@@ -88,7 +88,7 @@
                 <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
                     <term>nonfiction</term>
                     <term>prose</term>
-                    <term>female</term>
+                    <term>male</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -99,10 +99,8 @@
         <front>
             <div type="summary">
                 <p>
-                    This is a letter from Audrey Heffill (secretary of Vita Sackville-West, i.e. Lady Nicolson) 
-                    to Peggy Beslher (secretary at Hogarth Press)
-                    inquiring whether all advance royalties on 'All Passion Spent' (novel by V. Sackville-West) have been paid. 
-                
+                    In this letter to Dorothy Lange, Edward Upward inquires whether the Book Society already possess a photograph of him. <lb/>
+                    Furthermore, he requests for plans to publish his book in America, in the case that arrangements have not yet been made.
                 </p>
             </div>
         </front>
@@ -110,46 +108,57 @@
             <div type="letter">
                 <opener>
                     <dateline>
-                        <date when="1932-04-18">
-                           18th April, 1932. <note><p>Recipient's address is missing in the original letter.</p></note> <lb/>
+                        <date when="1938-02-13">
+                            Feb 13th 1938 <note><p>Recipient's address is missing in the original letter.</p></note> 
                         </date>
                     </dateline>
+                   
                     <salute>
-                        Dear Miss Belsher,<lb/>
+                        Dear Miss Lange, <lb/>
                     </salute>
                 </opener>
                 <p>
-                    Would you be so kind as to let me know <lb/>
+                    Many thanks for your letter. <lb/>
                     
-                    the dates on which the amounts making up <lb/>
+                    I enclose a few biographical details for <lb/>
                     
-                    advance royalties of &#xA3;800 on <title type="novel">All Passion Spent</title> <note><p>novel by Vita Sackville-West</p></note> <lb/>
+                    the <title>Book Society News</title>. I have not <unclear reason="illegible" cert="high">a good</unclear> photograph <lb/>
                     
-                    were paid. I have only got two am<del>m</del>ounts<note><p>manual deletion of second 'm' </p></note>, <lb/>
+                    of myself in my possession, but <persName key="Q5919346">Howard <lb/>
                     
-                    <choice><abbr>viz.</abbr><expan>videlicet</expan></choice><note><p>i.e. 'namely' or 'that is to say'</p></note> &#xA3;300 in May and &#xA3;300 in November, and as <lb/>
+                    Coster</persName> has recently done a very good one. I <lb/>
                     
-                    <persName key="Q235505">Mrs. Nicolson</persName><note><p>A.k.a. Vita Sackville West</p></note> is away from <placeName key="Q2204332">Long Barn</placeName> I have <lb/>
+                    don’t know whether there is any possibility <lb/>
                     
-                    no means of finding out, except through you, <lb/>
+                    that <del rend="strikethrough">be prepared</del> the <orgName key="BSOC">Book Society</orgName> might <lb/>
                     
-                    and I must know for Income Tax returns. I am <lb/>
+                    be prepared to buy one from him: if not, <lb/>
                     
-                    so sorry to worry you.
+                    please let me know and I will obtain one. <lb/>
+                    
+                    I have just received from <persName key="MAPP0034">John J. <lb/>
+                    
+                    Trounstine</persName> of <placeName key="Q60">New York</placeName> an inquiry as <lb/>
+                    
+                    to whether any arrangements have been <lb/>
+                    
+                    made to publishing my book in <placeName key="Q30">America</placeName><note><p>With Upward's reference to New York, there is a high possibility, that he means the USA</p></note>. <lb/>
+                    
+                    If no arrangements have been made, would <pb/>
+                    
+                    there be any objection to permitting him <lb/>
+                    
+                    to look for a publisher there? <lb/>
                 </p>
                 <closer>
                     <salute>
                         Yours sincerely, <lb/>
                     </salute>
-                    <signed>Audrey Heffill</signed> <lb/>
-                    <occupation>
-                        Secretary.
-                    </occupation>
-                    <address>
-                        <addrLine>Stone House,</addrLine>
-                        <addrLine>Victoria Road,</addrLine>
-                        <addrLine>Sevenoaks.</addrLine> <note><p>This is the sender's address provided at the top of the original letter, moved intentionally to the closer to avoid confusion.</p></note>
-                    </address>
+                    <signed>Edward Upward.</signed>
+                    <adress>
+                        <addrLine>39, Woodleigh Gardens,</addrLine>
+                        <addrLine>s. w. 16</addrLine> <note><p>This is the sender's address provided at the top of the original letter, moved intentionally to the closer to avoid confusion.</p></note>
+                    </adress>
                 </closer>
             </div>
         </body>
