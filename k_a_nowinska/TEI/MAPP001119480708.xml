@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAPP001119480708">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    Letter from <persName type="sender" key="MAPP0011"> Aline Burch </persName> to <orgName type="recipient" key="Q1336200"> Penguin Books </orgName>, <date when="1948-07-08">
+                        8th July, 1948 </date> : A machine-readable transcription
+                </title>
+                <author>
+                    Aline Burch
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Katarzyna Nowi&#324;ska
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Katarzyna Nowi&#324;ska
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Katarzyna Nowi&#324;ska
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                7KB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    MAPP001119480708
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date> 2025 </date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>
+                        Letter from <persName key="MAPP0011"> Aline Burch </persName> to <orgName key="Q1336200"> Penguin Books </orgName>, <date when="1948-07-08">
+                            8th July, 1948n </date> : A machine-readable transcription
+                    </title>
+                    <author>
+                       Aline Burch
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/552/56
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>feminine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    In this letter, Aline Burch, on behalf of Mr. Woolf, explains the current situation regarding the reprinting of &apos;The Common Reader&apos;. Penguin's offer seems unprofitable to Mr. Woolf, and therefore Aline Burch informs that he would not like to extend his contract with Penguin. 
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1948-07-08">
+                            8th July, 1948.
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName>
+                                H. Summers, <choice> <abbr> Esq., </abbr> <expan> Esquire </expan> </choice>
+                            </persName>
+                            <orgName>
+                                Penguin Books Ltd., <choice> <abbr> Ltd., </abbr> <expan> Limited </expan></choice>
+                            </orgName>
+                        </addrLine>
+                        <addrLine>
+                            West Drayton, <choice> <abbr> Middx. </abbr> <expan> Middlesex </expan></choice>
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear Sir,
+                    </salute>
+                </opener>
+                <p>
+                    <persName key="Q703935">Mr. Woolf</persName> has asked me to reply <lb/>
+                    to your letter to him of June 30, <lb/>
+                    and to explain the position with <lb/>
+                    regard to <title key="novel">THE COMMON READER</title><note><p>Novel by Virginia Woolf</p></note>, Stories <lb/>
+                    I and II. We, ourselves, have just <lb/>
+                    been able to reprint the First Series <lb/>
+                    in our Uniform Edition at 7&#47;6d. and <lb/>
+                    the Second Series is at the binders <lb/>
+                    and <persName>Mr. Woolf</persName> feels that the issue of <lb/>
+                    a 1&#47;6d Penguin reprint, at the same <lb/>
+                    time, cannot fail to have an adverse <lb/>
+                    affect on the sales of the Uniform <lb/>
+                    Edition. In the circumstances, there- <lb/>
+                    fore, he would very much prefer not <lb/>
+                    to renew the <orgName key="Q1336200">Penguin</orgName> contracts, at <lb/>
+                    any rate for the present.
+                </p>
+                <closer>
+                    <salute>
+                       Yours faithfully,
+                       
+                       Secretary to <persName> Mr.Woolf </persName>
+                    </salute>
+                    <signed/>
+                    
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAPP001119511010">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    Letter from <persName type="sender" key="MAPP0011"> Aline Burch </persName> to <persName key="Q1282985"> William Plomer </persName>, <date when="1951-10-10">
+                    10th October, 1951 </date> : A machine-readable transcription </title>
+                <author>
+                    Aline Burch
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Ktarzyna Nowi&#324;ska
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Katarzyna Nowi&#324;ska
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Katarzyna Nowi&#324;ska
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+               6.7KB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    MAPP001119511010
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date> 2025 </date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>
+                        Letter from <persName type="sender" key="MAPP0011"> Aline Burch</persName> to <persName type="recipient" key="Q1282985"> William Plomer </persName>, <date when="1951-10-10">
+                            10th October, 1951 </date> : A machine-readable transcription
+                    </title>
+                    <author>
+                        Aline Burch
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/348/42
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>feminine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    In this letter, Aline Burch writes on behalf of The Hogarth Press Ltd. to inform William Plomer of a request for a copy of &apos;Sado&apos; by the German publisher Insel-Verlag. She mentions that the publisher may be interested in Plomer's entire body of work and asks whether the company should deal with this request as normal and whether &apos;Sado&apos; is available for Germany.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date when="1951-10-10">
+                            10th October, 1951.
+                        </date>
+                    </dateline>
+                   
+                    <salute>
+                        Dear <persName> Mr. Plomer </persName>,
+                    </salute>
+                </opener>
+                <p>
+                    We have received a request for a <lb/>
+                    reading copy of <title key="novel">SADO</title> from German <lb/>
+                    publisher, <orgName key="Q316015"> Insel-Verlag </orgName> of Wiesbaden. The <lb/>
+                    request actually comes from <persName key="Q55675211">Dr.L.L.Weltmann</persName> <lb/>
+                    who has been asked to keep <orgName>Insel-Verlag</orgName> <lb/>
+                    informed of English authors suitable to <lb/>
+                    their list. He seems to think there is a <lb/>
+                    possibility of them becoming interested in <lb/>
+                    your work as a whole. Would you like us <lb/>
+                    to deal with this on the usual terms and, <lb/>
+                    if so, would you please let me whether <lb/>
+                    <title key="novel">SADO</title> is free for Germany?
+                </p>
+                <closer>
+                    <salute>
+                        Your sincerely,
+                        
+                        For <orgName key="Q1623362"> The Hogarth Press <choice> <abbr> Ltd. </abbr> <expan> Limited </expan> </choice> </orgName>
+                    </salute>
+                    
+                    <address>
+                        <addrLine>
+                            <persName>
+                                William Plomer, <choice> <abbr> Esq., </abbr> <expan> Esquire </expan></choice>
+                            </persName>
+                            
+                        </addrLine>
+                        <addrLine>
+                            29 Linden Gardens,
+                            London, W.2.
+                        </addrLine>
+                    </address>
+                   
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
