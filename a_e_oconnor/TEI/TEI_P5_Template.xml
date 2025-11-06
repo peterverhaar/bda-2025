@@ -5,10 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from <persName type="sender" key="Q130729617">Curtis Brown Ltd</persName> to <persName type="recipient" key="Q703935"> Leonard Woolf</persName>, March 16, 1933.: A
+                <title>Letter from <orgName type="sender" key="Q130729617">Curtis Brown <choice><abbr>Ltd</abbr><expan>Limited Liability</expan></choice></orgName> to <persName type="recipient" key="Q703935"> Leonard Woolf</persName>, March 16, 1933.: A
                     machine-readable transcription</title>
                 <author>
-                    <persName type="sender" key="Q130729617">Curtis Brown Ltd</persName>
+                    <orgName>Curtis Brown <choice><abbr>Ltd</abbr><expan>Limited Liability</expan></choice></orgName>
                 </author>
                 <principal>Prof. dr. Adriaan van der Weel</principal>
                 <respStmt>
@@ -54,10 +54,10 @@
 
             <sourceDesc>
                 <bibl>
-                    <title>Letter from <persName>Curtis Brown Ltd</persName> to <persName>Leonard Woolf</persName>, 16 March, 1933.
+                    <title>Letter from <orgName>Curtis Brown <choice><abbr>Ltd</abbr><expan>Limited Liability</expan></choice></orgName> to <persName>Leonard Woolf</persName>, 16 March, 1933.
                     </title>
                     <author>
-                        <persName>Curtis Brown Ltd</persName>
+                        <orgName>Curtis Brown <choice><abbr>Ltd</abbr><expan>Limited Liability</expan></choice></orgName>
                     </author>
                     <idno type="callNo">
                         MS 2750/556/10
@@ -99,7 +99,7 @@
         <front>
             <div type="summary">
                 <p>
-                    In this letter addressed to Leondard Woolf, husband to Virginia Woolf, Curtis Brown Ltd inquires about the possibilities of publishing Mrs. Woolf's new work in "Time and Tide". Further organisations are mentioned as not being viable options for the format of her writing. A projection of the timeline for publishing and its costs is provided.
+                    In this letter addressed to <persName>Leonard Woolf</persName>, husband to <persName>Virginia Woolf</persName>, <orgName>Curtis Brown <choice><abbr>Ltd</abbr><expan>Limited Liability</expan></choice></orgName> inquires about the possibilities of publishing <persName><choice><abbr>Mrs.</abbr><expan>Missus</expan></choice> Woolf</persName>'s new work in "<orgName>Time and Tide</orgName>". Further organisations are mentioned as not being viable options for the format of her writing. A projection of the timeline is outlined and costs for its publication is provided.
                 </p>
             </div>
         </front>
@@ -113,7 +113,7 @@
                     </dateline>
                     <address>
                         <addrLine>
-                            <persName>Leonard Woolf,<choice><abbr>Esq.</abbr><expan>Esquire</expan></choice></persName>,
+                            <persName>Leonard Woolf, <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice></persName>,
                         </addrLine> 
                         <addrLine>
                             <orgName>The Hogarth Press</orgName>
@@ -126,31 +126,31 @@
                         </addrLine>
                     </address>
                     <salute>
-                        Dear Mr. Woolf,
+                        Dear <choice><abbr>Mr.</abbr><expan>Mister</expan></choice> Woolf,
                     </salute>
                 </opener>
                 <p>
 I have been working daily on the serial situa-<lb/>
-tion with reference to <title>"FLUSH."</title> As you know, <title>"Good<lb/> Housekeeping"</title>
+tion with reference to "<orgName key="Q2270838">FLUSH</orgName>." As you know, "<title type="Novel" key="Q174941">Good<lb/> Housekeeping</title>"
  have now reluctantly come to the final<lb/>
-conclusion - as was the case previously with <orgName>"Woman's<lb/> Journal"</orgName>
+conclusion - as was the case previously with "<orgName key="Q4171142">Woman's<lb/> Journal</orgName>"
  - that the subtle qualities of this work<lb/>
 could not be sufficiently well conveyed in monthly<lb/>
 instalments to make a monthly magazine a suitable<lb/> 
 medium. This view I find is shared by the editor of<lb/>
-the <orgName>"Strand"</orgName>, in spite of the fact that he is anxiously<lb/>
+the "<orgName key="Q1126800">Strand</orgName>", in spite of the fact that he is anxiously<lb/>
 seeking for material of a somewhat less obvious nature<lb/>
 than that which they have tended to run in the past:<lb/>
 and was therefore particularly grateful for being given<lb/>
-the opportunity of considering the present MS.<lb/>
+the opportunity of considering the present <choice><abbr>MS.</abbr><expan>Manuscript</expan></choice>.<lb/>
                 </p>
 <p>
-There are still such mediums as the <orgName>"Telegraph"</orgName><lb/>
-and <orgName>"Evening Standard"</orgName> with whom one might discuss the<lb/>
+There are still such mediums as the "<orgName key="Q192621">Telegraph</orgName>"<lb/>
+and "<orgName key="Q666494">Evening Standard</orgName>" with whom one might discuss the<lb/>
 possibilities - though their space is, generally speak-<lb/>
 ing, very restricted at present:- but first I shall be<lb/>
 glad to know how you view the following suggestion which<lb/>
-comes from <orgName>"Time and Tide"</orgName>:-<lb/>
+comes from "<orgName key="Q7805262">Time and Tide</orgName>":-<lb/>
 </p>
 <p>
     I am frequently asked by <persName key="Q545677">Lady Rhondda</persName> to give her<lb/>
@@ -160,7 +160,7 @@ such cases, to put forward offers at a considerably higher<lb/>
 rate than that ruling in the weekly field as a whole: and<lb/>
 I therefore rang her up tentatively in the matter the<lb/>
 other day: without, that is to say, actually showing her<lb/>
-the MS. until I knew how you would view "Time and Tide"
+the <choice><abbr>MS.</abbr><expan>Manuscript</expan></choice> until I knew how you would view <orgName>"Time and Tide"</orgName>
 <pb/>
 as a medium. She is, as I anticipated, intensly<lb/>
 interested, and is asking whether - <persName key="Q40909">Mrs. Woolf</persName><lb/>
@@ -175,21 +175,21 @@ eighth instalment.<lb/>
 I think there would be no doubt but that we could<lb/>
 arrange publication so as to make way for the appear-<lb/>
 ance of the book in June, as you plan, and to arrange<lb/>
-further that "Time and Tide" run a line making it quite<lb/>
-clear that it will be published by the Hogarth Press.<lb/>
+further that "<orgName>Time and Tide</orgName>" run a line making it quite<lb/>
+clear that it will be published by <orgName key="Q1623362">the Hogarth Press</orgName>.<lb/>
 </p>
 <p>
 May I <choice><sic>than</sic><corr>then</corr></choice> know how you would like me to proceed<lb/>
-with "Time and Tide" - with whom, by the way, I have<lb/>
+with <orgName>"Time and Tide"</orgName> - with whom, by the way, I have<lb/>
 not argued at all as yet on the price basis: waiting<lb/>
 first to hear your views.<lb/>
 </p>
 <p>
 Miss Head, by the way, was most anxious that I<lb/>
 should say how keenly she is looking forward to the<lb/>
-chance of securing for "Good Housekeeping" the continus-<lb/>
-tion of <title>"A ROOM OF ONE'S OWN"</title>, if and when this materialises,<lb/>
-as discussed with Mrs. Woolf.
+chance of securing for "<title>Good<lb/> Housekeeping</title>" the continua-<lb/>
+tion of "<title type="Novel" key="Q1204366">A ROOM OF ONE'S OWN</title>", if and when this materialises,<lb/>
+as discussed with <persName><choice><abbr>Mrs.</abbr><expan>Missus</expan></choice> Woolf</persName>.
                 </p>
                 <closer>
                     <salute>
