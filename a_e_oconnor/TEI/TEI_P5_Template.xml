@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="xxxxx">
-    <!-- replace xxxxxxxxxx with file id -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q13072961719330316">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,7 +42,7 @@
                     <addrLine>2300 RA Leiden</addrLine>
                 </address>
                 <idno>
-                    <!-- file ID -->
+                    Q13072961719330316
                 </idno>
                 <availability>
                     <p>Publicly accessible </p>
@@ -131,26 +130,26 @@
                 </opener>
                 <p>
 I have been working daily on the serial situa-<lb/>
-tion with reference to "<orgName key="Q2270838">FLUSH</orgName>." As you know, "<title type="Novel" key="Q174941">Good<lb/> Housekeeping</title>"
+tion with reference to "<orgName key="Q2270838">FLUSH</orgName><note><p>Novel by Virginia Woolf</p></note>." As you know, "<title type="Novel" key="Q174941">Good<lb/> Housekeeping</title><note><p>American Magazine</p></note>"
  have now reluctantly come to the final<lb/>
-conclusion - as was the case previously with "<orgName key="Q4171142">Woman's<lb/> Journal</orgName>"
+conclusion - as was the case previously with "<orgName key="Q4171142">Woman's<lb/> Journal</orgName><note><p>American women's rights periodical published from 1870-1931</p></note>"
  - that the subtle qualities of this work<lb/>
 could not be sufficiently well conveyed in monthly<lb/>
 instalments to make a monthly magazine a suitable<lb/> 
 medium. This view I find is shared by the editor of<lb/>
-the "<orgName key="Q1126800">Strand</orgName>", in spite of the fact that he is anxiously<lb/>
+the "<orgName key="Q1126800">Strand</orgName><note><p>British monthly magazine published 1891 to 1950</p></note>", in spite of the fact that he is anxiously<lb/>
 seeking for material of a somewhat less obvious nature<lb/>
 than that which they have tended to run in the past:<lb/>
 and was therefore particularly grateful for being given<lb/>
 the opportunity of considering the present <choice><abbr>MS</abbr><expan>Manuscript</expan></choice>.<lb/>
                 </p>
 <p>
-There are still such mediums as the "<orgName key="Q192621">Telegraph</orgName>"<lb/>
-and "<orgName key="Q666494">Evening Standard</orgName>" with whom one might discuss the<lb/>
+There are still such mediums as the "<orgName key="Q192621">Telegraph</orgName><note><p>British daily broadsheet newspaper</p></note>"<lb/>
+and "<orgName key="Q666494">Evening Standard</orgName><note><p>Daily tabloid newspaper in London</p></note>" with whom one might discuss the<lb/>
 possibilities - though their space is, generally speak-<lb/>
 ing, very restricted at present:- but first I shall be<lb/>
 glad to know how you view the following suggestion which<lb/>
-comes from "<orgName key="Q7805262">Time and Tide</orgName>":-<lb/>
+comes from "<orgName key="Q7805262">Time and Tide</orgName><note><p>Periodical</p></note>":-<lb/>
 </p>
 <p>
     I am frequently asked by <persName key="Q545677">Lady Rhondda</persName> to give her<lb/>
@@ -176,7 +175,7 @@ I think there would be no doubt but that we could<lb/>
 arrange publication so as to make way for the appear-<lb/>
 ance of the book in June, as you plan, and to arrange<lb/>
 further that "<orgName>Time and Tide</orgName>" run a line making it quite<lb/>
-clear that it will be published by <orgName key="Q1623362">the Hogarth Press</orgName>.<lb/>
+clear that it will be published by <orgName key="Q1623362">the Hogarth Press</orgName><note><p>British publishing house founded in 1917 by Leonard Woolf and Virginia Woolf</p></note>.<lb/>
 </p>
 <p>
 May I <choice><sic>than</sic><corr>then</corr></choice> know how you would like me to proceed<lb/>
@@ -188,7 +187,7 @@ first to hear your views.<lb/>
 Miss Head, by the way, was most anxious that I<lb/>
 should say how keenly she is looking forward to the<lb/>
 chance of securing for "<title>Good Housekeeping</title>" the continua-<lb/>
-tion of "<title type="Novel" key="Q1204366">A ROOM OF ONE'S OWN</title>", if and when this materialises,<lb/>
+tion of "<title type="Novel" key="Q1204366">A ROOM OF ONE'S OWN</title><note><p>1929 essay by Virginia Woolf</p></note>", if and when this materialises,<lb/>
 as discussed with <persName><choice><abbr>Mrs.</abbr><expan>Missus</expan></choice> Woolf</persName>.
                 </p>
                 <closer>
