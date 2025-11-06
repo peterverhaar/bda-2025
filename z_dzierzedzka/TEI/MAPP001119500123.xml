@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAPP001119500123">    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Aline Burch to Vita Sackville-West, 23rd January, 1950: A
+                    machine-readable transcription</title>
+                <author>
+                    Aline Burch
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Zuzia Dzierz&#281;dzka
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Zuzia Dzierz&#281;dzka
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Zuzia Dzierz&#281;dzka
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                6,4KB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    MAPP001119500123
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName type="sender" key="MAPP0011">Aline Burch</persName> to <persName type="recipient" key="Q235505">Vita Sackville-West</persName>, <date when="1950-01-23">23rd of January, 1950</date>
+                    </title>
+                    <author>
+                        <persName>Aline Burch</persName>
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/410/68
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium
+                    course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>feminine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    The letter informs Vita Sackville-West that M. Bernard Crepin has inquired about the French translation rights to All Passion Spent.
+                    The sender has told him that she manages her own translation rights and is forwarding his letter for her to respond directly.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            Kent
+                        </placeName>
+                        <date when="1950-01-23">
+                            23rd January, 1950
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName>Vita Sackville-West</persName>                            
+                        </addrLine>                        
+                    </address>
+                    <salute>
+                        Dear <persName>Miss Sackville-West</persName>,
+                    </salute>
+                </opener>
+                <p>
+                    I am enclosing a letter<note><p>The Modernist Archives Publishin Project holds the letter metioned from Crepin to Aline Burch - MS 2750/410/69.</p></note> asking <lb/>
+                    about the French rights in <emph rend="underlined"><title key="novel">All Passion <lb/>
+                            Spent</title></emph><note><p>A novel by Vita Sackville-West, which addresses people's place in society, society's constrictions on people, and women's control of their lives (1931).</p></note>/note> from <persName key="MAPP0051">M. Bernard Crepin</persName>. I have <lb/>
+                    written telling him that you handle <lb/>
+                    translation rights yourself and that I <lb/>
+                    am forwarding his letter. Perhaps you <lb/>
+                    would be good enough to give him the <lb/>
+                    information he requires.
+                </p>
+                <closer>
+                    <salute>
+                        Yours sincerely,
+                    </salute>                                   
+                    <address>
+                        <addrLine>
+                            <orgName key="Q1623362">The Hogarth Press Ltd.</orgName>
+                        </addrLine>
+                        <addrLine>
+                            <persName>The Hon. V. Sackville-West</persName>
+                        </addrLine>
+                            <addrLine>Sissinghurst Castle,</addrLine>
+                            <addrLine>Kent</addrLine>                                             
+                        </address>                   
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
