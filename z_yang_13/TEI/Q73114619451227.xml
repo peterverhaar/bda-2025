@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q73114619451227">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Edward Upward to John Lehmann, 27, December 1945: A
+                    machine-readable transcription</title>
+                <author>
+                    Edward Upward
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Ziyi Yang
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Ziyi Yang
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Ziyi Yang
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q73114619451227
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName type="sender" key="Q731146">Edward Upward</persName> to <persName type="recipient" key="Q1563198">John Lehmann</persName>, <date when="1945-12-27">27 December 1945</date>
+                    </title>
+                    <author>
+                        Edward Upward
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/507/3/21
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    The Book in the Digital Age: Agents and Medium course, Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Upward indicates that a M. Tavernier of Confluences will get in touch with Hogarth if they wish to publish a translation of Journey to the Border.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            154 Turney Road<lb/>
+                            Dulwich<lb/>
+                            S.E.21
+                        </placeName>
+                        <date when="1945-12-27">
+                            27th Dec '45
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName key="Q1563198">John Lehmann</persName>
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear <persName key="Q1563198">John</persName><note><p>John refers to <persName key="Q1563198">John Lehmann</persName>, who worked as managing director of <orgName key="Q1623362">Hogarth Press</orgName>.</p></note>,
+                    </salute>
+                </opener>
+                <p>
+                    Thanks very much for your letter.
+                </p>
+                <p>
+                    The position at present is that <persName key="MAPP0037">M. Tavernier</persName> of <orgName>"Confluences"</orgName><note><p>"Confluences" was a French literary magazine published in Paris during the 1940s.</p></note> will, if he wishes to publish a translation<lb/>
+                    of <title>Journey to the Border</title><note><p>"Journey to the Border" is Edward Upward's first novel, published by the <orgName key"Q1623362">Hogarth Press</orgName> in 1938.</p></note>, get in touch with you. In<lb/>
+                    that case I should be glad if you would negotiate<lb/>
+                    a contract. He hasn't yet seen the book, but the
+                    <choice>
+                        <sic>intending</sic>
+                        <corr>intended</corr>
+                    </choice><lb/>
+                    translator will be discussing it with him, and <persName>M. Tavernier</persName><lb/>
+                    will have made a decision by the time he comes over here<lb/>
+                    in the new year.
+                </p>
+                <p>
+                    I am still working at the new novel. I think<lb/>
+                    that something worth while will come of it in the end.
+                </p>
+                <closer>
+                    <salute>
+                        Yours ever,
+                    </salute>
+                    <signed>
+                        Edward.
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
