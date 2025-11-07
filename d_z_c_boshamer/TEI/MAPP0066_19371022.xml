@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAPP0066_19371022">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Alan Collins to Theodore F. Pike, 22nd October 1937: A machine-readable transcription</title>
+                <author>
+                    <persName key="MAPP0066">Alan Collins</persName>
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Denis&#xE9; Boshamer
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Denis&#xE9; Boshamer
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Denis&#xE9; Boshamer
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                8,26 kBytes
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    MAPP0066_19371022
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Copy of letter from <persName key="MAPP0066">Alan Collins</persName> to <persName key="MAPP067">Theodore F. Pike </persName>, <date when="1937-10-22">22 October 1937</date>.
+                    </title>
+                    <author>
+                        <persName key="MAPP0066">Alan Collins</persName>
+                    </author>
+                    <idno type="callNo">
+                        MS 2750/422/2/63
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026
+                    The Book in the Digital Age: Agents and Medium course, 
+                    Book and Digital Media Studies, Leiden University
+                </p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Letter from <persName key="MAPP0066">Alan Collins</persName> of <orgName key="Q5195696">Curtis Brown Ltd</orgName> to <persName key="MAPP067">Theodore F. Pike </persName> of <orgName key="Q911673">Longmans Green &amp; Co. Limited</orgName> regarding the royalties for the use of <title>Pepita</title> by <persName key="Q235505">Vita Sackville-West</persName> as the <orgName key="Q4943125">Book-of-the-Month</orgName> selection.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                        From N.Y. Office of <orgName key="Q5195696">Curtis Brown</orgName> 
+                        </placeName>
+                        <date when="1937-10-22">
+                            22nd October 1937. 
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName key="MAPP067">Theodore F. Pike, <choice><abbr>Esq.</abbr><expan>esquire</expan></choice>,</persName> 
+                        </addrLine>
+                            <addrLine><orgName key="Q911673">Longmans Green &amp; Company</orgName>,</addrLine> 
+                            <addrLine>Toronto 2,</addrLine>
+                            <addrLine>Canada.</addrLine>
+                    </address>
+                    <seg>
+                        Copy.
+                    </seg>
+                    <salute>
+                        Dear <persName key="MAPP067">Mr. Pike</persName>:
+                    </salute>
+                </opener>
+                <p>
+                    <lb/>Thank you very much for your prompt
+                    <lb/>telegram allowing us to go ahead with 
+                    <title>PEPITA</title> <note><p><title>Pepita</title> is an autobiographical novel by <persName key="Q235505">Vita Sackville-West</persName> about her female ancestors, published by the <orgName key="Q1623362">Hogarth Press</orgName> in <date when="1939">1939.</date></p></note>  
+                    <persName key="Q235505"><choice><sic>C.</sic><corr>V.</corr></choice> Sackville-
+                    <lb/>West</persName> as the <orgName key="Q4943125">Book-of-the-Month</orgName><note><p>The <orgName key="Q4943125">Book-of-the-Month Club</orgName> is a monthly book subscription programme founded in <placeName>New York</placeName> in <date when="1926">1926</date>. As of <date when="2025">2025</date>, it is still operational.</p></note> 
+                    selection. <orgName key="Q1251563">Doubleday</orgName> do not
+                    <lb/>have <placeName>Canada</placeName> in their contract and I cabled my <placeName>London</placeName> office 
+                    <lb/>to get in touch with <orgName key="Q1623362">Hogarth</orgName> who do control it and the 
+                    <lb/>answer was that it was satisfactory to <orgName key="Q1623362">Hogarth</orgName> for the <orgName key="Q4943125">Book-
+                    <lb/>of-the-Month Club</orgName> to send copies into <placeName>Canada</placeName>, provided you
+                    <lb/>would accept a royalty of five cents a copy. As you know, 
+                    <lb/>the <orgName key="Q4943125">Book-of-the-Month</orgName> pays but 14&#162; a copy total and the
+                    <lb/>14&#162; must be divided 50&#37; to the publisher and 50&#37; to the 
+                    <lb/>author. I assume from the <orgName key="Q1623362">Hogarth</orgName> cable that of the 
+                    <lb/>seven cents going to the publisher, they propose you
+                    <lb/>take 5&#162; and themselves 2&#162;.
+                </p>
+                <p>
+                    <lb/>The <orgName key="Q4943125">Book-of-the-Month</orgName> will pay all monies due to 
+                    <lb/><orgName key="Q1251563">Doubleday</orgName> and will render a statement to them of the
+                    <lb/>number of copies sent to <placeName>Canada</placeName>. <orgName key="Q1251563">Doubleday</orgName> will pay 
+                    <lb/>this office and by then, I suppose, we shall have <orgName key="Q1623362">Hogarth&apos;s</orgName>
+                    <lb/>authorization to divide the money.
+                </p>
+                <closer>
+                    <salute>
+                    Sincerely yours,
+                    </salute>
+                    <signed> (Signed) <persName key="MAPP0066">Alan Collins</persName>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
