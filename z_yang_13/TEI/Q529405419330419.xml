@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q529405419330419">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Donald Clifford Brace to Leonard Woolf, 19 April 1933: A
+                    machine-readable transcription</title>
+                <author>
+                    Donald Clifford Brace
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Ziyi Yang
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Ziyi Yang
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Ziyi Yang
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                8 kB
+            </extent>
+
+
+            <publicationStmt>
+                <distributor>Leiden University</distributor>
+                <pubPlace>Leiden, The Netherlands </pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    Q52940541933041
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                </availability>
+                <date>2025</date>
+            </publicationStmt>
+
+
+            <sourceDesc>
+                <bibl>
+                    <title>Letter from <persName key="Q5294054">Donald Clifford Brace</persName> to <persName key="Q703935">Leonard Woolf</persName>, <date when="1933-04-19">19 April 1933</date>.
+                    </title>
+                    <author>
+                        Donald Clifford Brace
+                    </author>
+                    <idno type="callNo">
+                        The Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library
+                    </idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium course,
+                    Book and Digital Media Studies, Leiden
+                    University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    Donald Brace informs Leonard Woolf that he has negotiated with Ellery Sedgwick for the offered price to be &#36;1500. Brace asks for two sets of corrected proofs, and plans to send one set to the Atlantic Monthly. He also asks for the selected photographs and the corrected proofs as soon as possible.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            New York
+                        </placeName>
+                        <date when="1933-04-19">
+                            April 19, 1933.
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName key="Q703935">Leonard Woolf</persName>, Esq
+                        </addrLine>
+                        <addrLine>
+                            52 Tavistock Square
+                        </addrLine>
+                        <addrLine>
+                            London, W.C.1
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Dear Mr. Woolf:
+                    </salute>
+                </opener>
+                <p>
+                    I received yesterday your cable reading:<lb/>
+                    "Accept <orgName key="Q1542536">Atlantic</orgName> <orgName key="Q1623362">Hogarth</orgName><note><p>"Atlantic" refers to the Atlantic Monthly magazine, and "Hogarth" refers to the Hogarth Press.</p></note>." Upon receiving it, I telephoned<lb/>
+                    to Boston and talked with Mr. <persName key="Q5365230">Sedgwick</persName><note><p>"Mr. Sedgwick" refers to Ellery Sedgwick, who was an American editor of the Atlantic Monthly.</p></note> and succeeded in persuading him to push the price up to &#36;1500. The sale of<lb/>
+                    the serial rights is therefore concluded at that figure.<lb/>
+                    I am sure you won't mind the additional sum, and the price<lb/>
+                    of &#36;1500 seems more appropriate than the &#36;1200 he offered.
+                </p>
+                <p>
+                    I assume that you have gone ahead to set up<lb/>
+                    the book by this time, and I am hoping that we may receive<lb/>
+                    two sets, one of which might be sent to the <orgName key="Q1542536"Atlantic</orgName>.<lb/>
+                    No doubt, it will be better for them to print from the<lb/>
+                    corrected version if possible. Also, although book pub-<lb/>
+                    lication is put off until October, we shall still want as<lb/>
+                    complete samples as possible early in June. I should be<lb/>
+                    glad, therefore, if we might have the photographs you<lb/>
+                    select as soon as possible, as well as the corrected proofs;<lb/>
+                    or if the corrected proofs are to be long in coming, at<lb/>
+                    least the photographs.
+                </p>
+                <closer>
+                    <salute>
+                        With kind regards to you both,
+                    </salute><lb/>
+                    <salute>
+                        Yours sincerely,
+                    </salute><lb/>
+                    <signed>
+                        <persName key="Q5294054">Donald Brace</persName>
+                    </signed><lb/>
+                    <seg>
+                        DCB:CMc
+                    </seg>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
