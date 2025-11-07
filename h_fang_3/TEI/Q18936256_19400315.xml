@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q18936256_19400315">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Letter from Spencer Curtis Brown to John Lehmann, 15 March 1940: a machine-readable transcription
+        </title>
+        <author>
+          Spencer Curtis Brown
+        </author>
+        <principal>Prof. dr. Adriaan van der Weel</principal>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>
+            Theo Fang
+          </name>
+        </respStmt>
+        <respStmt>
+            <resp>Conversion to TEI-conformant markup: </resp>
+            <name>
+              Theo Fang
+            </name>
+          </respStmt>
+          <respStmt>
+            <resp>Editorial annotations: </resp>
+            <name>
+              Theo Fang
+            </name>
+          </respStmt>
+      </titleStmt>
+      <extent>
+        1.34 kBytes
+      </extent>
+
+
+       <publicationStmt>
+        <distributor>Leiden University</distributor>
+          <pubPlace>Leiden, The Netherlands </pubPlace>
+          <address>
+            <addrLine>P.O. Box 9515</addrLine>
+            <addrLine>2300 RA Leiden</addrLine>
+          </address>
+          <idno type="DOI">
+            Q18936256_19400315
+          </idno>
+          <availability>
+            <p>Publicly accessible </p>
+          </availability>
+          <date>2025</date>
+      </publicationStmt>
+      
+
+      <sourceDesc>
+        <bibl>
+          <title>
+            Letter from <persName key="Q18936256">Spencer Curtis Brown</persName> to <persName key="Q1563198">John Lehmann</persName>, <date when="1940-03-15">15 March 1940</date>.
+          </title>
+          <author>
+            Spencer Curtis Brown
+          </author>
+          <idno type="callNo">
+            MS 2750/2/1/5
+          </idno>
+         </bibl>
+      </sourceDesc>
+    </fileDesc>
+  <encodingDesc>
+    <projectDesc>
+      <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium course, 
+                    Book and Digital Media Studies, Leiden University</p>
+    </projectDesc>
+    <editorialDecl>
+      <p/>
+    </editorialDecl>
+  </encodingDesc>
+    <profileDesc>
+      <langUsage>
+          <language ident="eng">English</language>
+      </langUsage>
+      <textClass>
+       <keywords scheme="http://classificationweb.net">
+          <term>Correspondence</term>
+        </keywords>
+      </textClass>
+     <textClass>
+        <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+          <term>nonfiction</term>
+          <term>prose</term>
+          <term>masculine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+
+
+  <text>
+    <front>
+      <div type="summary">
+        <p>
+          <persName key="Q18936256">Spencer Curtis Brown</persName> writes to <persName key="Q1563198">John Lehmann </persName>to negotiate an advance of £25 and tiered royalties (10%/15%/20%), proposing British Empire rights excluding Canada; the letter expresses confidence in sales and requests promotion and reviews.
+        </p>
+      </div>
+    </front>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date when="1940-03-15">15 March, 1940</date>
+        </dateline>
+        <address>
+          <addrLine>
+            <persName key="Q1563198">John Lehmann</persName>, Esq.,</addrLine>
+          <addrLine>
+            <orgName key="Q1623362">The Hogarth Press</orgName></addrLine>
+          <addrLine>37, Mecklenburgh Square</addrLine>
+          <addrLine>W.C.L.</addrLine>
+        </address>
+        <salute>Dear Lehmann,
+        </salute>
+      </opener>
+       <p>
+        Thank you very much for your letter. I 
+        <lb/>quoted it to Ali and we are both somewhat appalled that
+        <lb/>you suggest paying no advance whatsoever. I thought an
+        <lb/>advance or £25 could not possibly be considered onerous
+        <lb/>and I suggest that figure with royalties or 10% on the
+        <lb/>first 2,000 copies, 15% on the next 2,000 and 20% thereafter;
+        <lb/>your territory to cover the Eritish Empire except Canada
+        <lb/>novel on terms to be arranged. I hope that you will wish
+        <lb/>to take the book on these terms for I know you will do
+        <lb/>everything you can to promote the sales and see that the
+        <lb/>book is reviewed in the right quarters. I believe that
+        <lb/>the book may have a sale for my own commercial mind
+        <lb/>appreaciated it and I believe that others like me say do
+        <lb/>so too.
+      </p>
+      <closer>
+        <salute>
+          Yours sincerely,
+        </salute>
+        <signed>
+          Spencer Curtis Brown
+        </signed>
+        <seg type="footer">{While every reasonable care is taken of MS. while in our possession we can accept no responsiblity for any loss or damage thereto.}</seg>
+      </closer>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://bookandbyte.universiteitleiden.nl/schema/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Q18936256_19400329">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter from Spencer Curtis Brown to John Lehmann, 29 March 1940: a machine-readable transcription
+        </title>
+        <author>Spencer Curtis Brown
+        </author>
+        <principal>Prof. dr. Adriaan van der Weel</principal>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+            <name>
+              Theo Fang
+            </name>
+        </respStmt>
+        <respStmt>
+          <resp>Conversion to TEI-conformant markup: </resp>
+            <name>
+              Theo Fang
+            </name>
+        </respStmt>
+        <respStmt>
+          <resp>Editorial annotations: </resp>
+            <name>
+              Theo Fang
+            </name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        1 kBytes
+      </extent>
+
+
+      <publicationStmt>
+        <distributor>Leiden University</distributor>
+          <pubPlace>Leiden, The Netherlands </pubPlace>
+          <address>
+            <addrLine>P.O. Box 9515</addrLine>
+            <addrLine>2300 RA Leiden</addrLine>
+          </address>
+          <idno type="DOI">
+            Q18936256_19400329
+          </idno>
+          <availability>
+            <p>Publicly accessible </p>
+          </availability>
+          <date>2025</date>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>
+            Letter from <persName key="Q18936256">Spencer Curtis Brown</persName> to <persName key="Q1563198">John Lehmann</persName>, <date when="1940-03-29">29 March 1940</date>.
+          </title>
+          <author>
+            Spencer Curtis Brown
+          </author>
+          <idno type="callNo">
+              MS 2750/2/1/8
+          </idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared by students of the 2025-2026 The Book in the Digital Age: Agents and Medium course, 
+            Book and Digital Media Studies, Leiden University</p>
+      </projectDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="eng">English</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="http://classificationweb.net">
+            <term>Correspondence</term>
+          </keywords>
+        </textClass>
+        <textClass>
+          <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+            <term>nonfiction</term>
+            <term>prose</term>
+            <term>masculine</term>
+          </keywords>
+        </textClass>
+        </profileDesc>
+    </teiHeader>
+
+
+  <text>
+    <front>
+      <div type="summary">
+        <p>
+          Letter confirming acceptance of revised advance terms for a publishing contract, mentioning difficulties in transport and the Canadian market.
+        </p>
+        </div>
+    </front>
+    <body>
+      <div type="letter">
+      <opener>
+        <dateline>
+          <placeName>London</placeName>
+          <date when="1940-03-29">29 March 1940</date>
+        </dateline>
+        <address>
+          <addrLine><persName key="Q1563198">John Lehmann</persName>, Esq.</addrLine>
+          <addrLine><orgName key="Q1623362">The Hogarth Press</orgName></addrLine>
+          <addrLine>37, Mecklenburgh Square</addrLine>
+          <addrLine>W.C.L.</addrLine>
+        </address>
+        <salute>Dear Lehmann,
+        </salute>
+      </opener>
+      <p>
+        Ali does not want to make 
+        <lb/>difficulties about the £5 by which you have 
+        <lb/>reduced his advance and will gladly accept 
+        <lb/>the terms outlined in your letter. With 
+        <lb/>present difficulties of transport we have 
+        <lb/>usually found that it is easier for the 
+        <lb/>American publisher than for the English one 
+        <lb/>to supply the Canadian market, but if you 
+        <lb/>feel strongly on that point we will not 
+        <lb/>make difficulties. I am having the 
+        <lb/>contract drawn up and will send it to you 
+        <lb/>in a day or two.
+      </p>
+      <closer>
+        <salute>Yours sincerely,
+        </salute>
+        <signed>Spencer Curtis Brown
+        </signed>
+        <seg type="footer">{While every reasonable care is taken of MS. while in our possession we can accept no responsiblity for any loss or damage thereto.}</seg>
+      </closer>
+    </div>
+    </body>
+  </text>
+</TEI>
